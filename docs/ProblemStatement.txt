@@ -1,0 +1,9 @@
+Cognitive Builder Faire:
+Problem Statement
+
+Challenges:
+1. Evaluate weather patterns to predict global health crises (e.g. infectious disease outbreaks).
+2. How weather predictions can help us re-think natural resource consumption and/or environmental impact.
+3. Finding weather patterns that improve predictions on e-commerce phenomena.
+
+3-minutes to demo to judging panel; 3-minutes of Q&A by the panel.
