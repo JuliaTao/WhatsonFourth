@@ -1,7 +1,7 @@
 """Code to scrape text off of WTA website"""
 # Code from: https://github.com/Jadetabony/wta_hikes
 # Ensure you create a 'washington_hikes.csv' file with the following line:
-# hike_name,region,length,elevation gain,rating,number_votes,features,which_pass,latlong,numReports
+# hike_name,region,length,elevation gain,rating,number_votes,features,which_pass,lat,long,numReports
 
 from bs4 import BeautifulSoup
 import requests
@@ -42,7 +42,7 @@ def extract_lat_long(location_url):
     start_lat_index = PREFIX_REGEX.match(location_url).end()
     end_long_index = len(location_url) - len(SUFFIX_REGEX.findall(location_url)[0])
     lat_long = location_url[start_lat_index : end_long_index]
-    return lat_long.split(",")[0], lat_long.split(",")[1]
+    return lat_long.split(",")
 
 def parser(url):
     """Parses URL into hiking dataset.
