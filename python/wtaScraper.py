@@ -13,6 +13,9 @@ import re
 PREFIX_REGEX = re.compile("//www.google.com/maps/dir//")
 SUFFIX_REGEX = re.compile("/@\S+en")
 
+NUMBER_OF_TRAILS_PER_PAGE = 30
+TOTAL_NUMBER_OF_PAGES = 113
+
 def collect_hikeurls(starturl):
     """Collecting all of the websites for all of the hikes"""
     hike_links = []
@@ -106,7 +109,7 @@ def build_dataset(data, urls):
     """Adds parsed fields to dataset.
 
     Runs though links in urls and applies parser function to the soup Collected
-    from the link.  Saves to csv every 50 querries.
+    from the link.
 
     data: dataset to append data to
 
@@ -119,10 +122,7 @@ def build_dataset(data, urls):
         for key in d.keys():
             data.set_value(row, key, d[key])
         cnter += 1
-        if cnter % 50 == 0:
-            data.to_csv('washington_hikes.csv', encoding='utf-8')
-            print 'Saving ', cnter
-    data.to_csv('washington_hikes.csv', encoding='utf-8')
+    data.to_csv('washington_hikes.csv', mode='a', header=False, encoding='utf-8')
 
 
 def getting_hike_desc(url):
@@ -135,34 +135,10 @@ def getting_hike_desc(url):
         return None
 
 
-
-def getHikeDescription(data, row=-1, counter=0):
-    """Collects hike description by row of a dataframe.
-
-    Keeps track of number of descriptions collected.
-    Can specify starting row in hyperparameters.
-
-    data: dataset to add description to
-
-    row: row to start on
-
-    counter: counter to keep track of descriptions collected"""
-
-    for url in data['url']:
-        row += 1
-        data.set_value(row, 'hike_desc', getting_hike_desc(data['url'][row]))
-        counter += 1
-        if counter % 50 == 0:
-            data.to_csv('washington_hikes.csv', encoding='utf-8')
-            print 'Collected %d hike descriptions' % counter
-    data.to_csv('washington_hikes.csv', encoding='utf-8')
-
-
 if __name__ == '__main__':
-    data = pd.read_csv('washington_hikes.csv')
-    for index in range(113):
-        page = index*30
-        print 'Scraping hikes on page #%d' % page
-        urls = collect_hikeurls('http://www.wta.org/go-outside/hikes?b_start:int=%d' % page)
+    for page in range(TOTAL_NUMBER_OF_PAGES):
+        data = pd.read_csv('hike_headers.csv')
+        index = page * NUMBER_OF_TRAILS_PER_PAGE
+        print 'Scraping hikes on page #%d' % (page + 1)
+        urls = collect_hikeurls('http://www.wta.org/go-outside/hikes?b_start:int=%d' % index)
         build_dataset(data, urls)
-        getHikeDescription(data)
