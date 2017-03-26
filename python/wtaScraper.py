@@ -6,9 +6,6 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-#import numpy as np
-#import matplotlib as plt
-#import seaborn as sn
 import re
 
 # Regular expressions match the text before and after latitude and
