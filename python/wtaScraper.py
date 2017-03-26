@@ -105,7 +105,7 @@ def parser(url):
     return row_data
 
 
-def build_dataset(data, urls):
+def build_dataset(data, urls, row = -1):
     """Adds parsed fields to dataset.
 
     Runs though links in urls and applies parser function to the soup Collected
@@ -114,15 +114,11 @@ def build_dataset(data, urls):
     data: dataset to append data to
 
     urls: List of urls"""
-    cnter = 0
-    row = -1
     for lnk in urls:
         row += 1
         d = parser(lnk)
         for key in d.keys():
             data.set_value(row, key, d[key])
-        cnter += 1
-    data.to_csv('washington_hikes.csv', mode='a', header=False, encoding='utf-8')
 
 
 def getting_hike_desc(url):
@@ -136,9 +132,10 @@ def getting_hike_desc(url):
 
 
 if __name__ == '__main__':
+    data = pd.read_csv('washington_hikes.csv')
     for page in range(TOTAL_NUMBER_OF_PAGES):
-        data = pd.read_csv('hike_headers.csv')
         index = page * NUMBER_OF_TRAILS_PER_PAGE
         print 'Scraping hikes on page #%d' % (page + 1)
         urls = collect_hikeurls('http://www.wta.org/go-outside/hikes?b_start:int=%d' % index)
-        build_dataset(data, urls)
+        build_dataset(data, urls, index - 1)
+    data.to_csv('washington_hikes.csv', header=True, encoding='utf-8')
