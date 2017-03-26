@@ -162,7 +162,10 @@ def getHikeDescription(data, row=-1, counter=0):
 
 
 if __name__ == '__main__':
-    urls = collect_hikeurls('http://www.wta.org/go-hiking/hikes')
     data = pd.read_csv('washington_hikes.csv')
-    build_dataset(data, urls)
-    getHikeDescription(data)
+    for index in range(113):
+        page = index*30
+        print 'Scraping hikes on page #%d' % page
+        urls = collect_hikeurls('http://www.wta.org/go-outside/hikes?b_start:int=%d' % page)
+        build_dataset(data, urls)
+        getHikeDescription(data)
