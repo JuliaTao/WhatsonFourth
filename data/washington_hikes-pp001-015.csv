@@ -1,0 +1,451 @@
+,hike_name,region,length,elevation gain,rating,number_votes,features,which_pass,lat,long,numReports,url
+0,Poo Poo Point - Chirico Trail,Issaquah Alps,NR,NR,3.90 out of 5,(31 votes) Log in to rate,[],NR,47.5000,-122.0219,366,http://www.wta.org/go-hiking/hikes/poo-poo-point-chirico-trail
+1,Esmeralda Basin (Esmerelda),Snoqualmie Region,NR,NR,4.32 out of 5,(19 votes) Log in to rate,[],NR,47.4361,-120.9372,215,http://www.wta.org/go-hiking/hikes/esmerelda-basin
+2,Joe Watt Canyon,Snoqualmie Region,NR,NR,3.00 out of 5,(1 vote) Log in to rate,[],NR,47.0711,-120.7353,0,http://www.wta.org/go-hiking/hikes/joe-watt-canyon
+3,Navaho Pass,Snoqualmie Region,NR,NR,3.86 out of 5,(21 votes) Log in to rate,[],NR,47.3664,-120.8027,299,http://www.wta.org/go-hiking/hikes/navaho-pass
+4,Northwest Timber Trail,Issaquah Alps,NR,NR,2.43 out of 5,(7 votes) Log in to rate,[],NR,47.4669,-121.9333,40,http://www.wta.org/go-hiking/hikes/northwest-timber-trail
+5,Summit Lake,Mount Rainier Area,NR,NR,4.30 out of 5,(40 votes) Log in to rate,[],NR,47.0319,-121.8269,345,http://www.wta.org/go-hiking/hikes/summit-lake
+6,Panjab Trail,Eastern Washington,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,46.1716,-117.7212,15,http://www.wta.org/go-hiking/hikes/panjab-trail
+7,Paradise Valley Conservation Area,Puget Sound and Islands,NR,NR,3.22 out of 5,(9 votes) Log in to rate,[],NR,47.7898,-122.0819,69,http://www.wta.org/go-hiking/hikes/paradise-valley-conservation-area
+8,Hidden Lake (Lake Wenatchee),Central Cascades,NR,NR,3.29 out of 5,(14 votes) Log in to rate,[],NR,47.8216,-120.8064,36,http://www.wta.org/go-hiking/hikes/hidden-lake
+9,Soos Creek Trail,Puget Sound and Islands,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,47.3896,-122.1515,9,http://www.wta.org/go-hiking/hikes/soos-creek-trail
+10,Lookout Mountain Forest Preserve,Puget Sound and Islands,NR,NR,3.00 out of 5,(4 votes) Log in to rate,[],NR,48.7191,-122.3554,13,http://www.wta.org/go-hiking/hikes/lookout-mountain-forest-preserve
+11,Sweet Creek Falls Interpretive Trail,Eastern Washington,NR,NR,5.00 out of 5,(1 vote) Log in to rate,[],NR,48.8242,-117.3975,5,http://www.wta.org/go-hiking/hikes/sweet-creek-falls-interpretive-trail
+12,Deer Creek Falls to Owyhigh Lakes,Mount Rainier Area,NR,NR,3.80 out of 5,(5 votes) Log in to rate,[],NR,46.8335,-121.5351,17,http://www.wta.org/go-hiking/hikes/deer-creek-falls-to-owyhigh-lakes
+13,Deer Creek Falls,Mount Rainier Area,NR,NR,3.00 out of 5,(7 votes) Log in to rate,[],NR,46.8335,-121.5351,5,http://www.wta.org/go-hiking/hikes/deer-creek-falls
+14,Paradise Glacier,Mount Rainier Area,NR,NR,3.17 out of 5,(6 votes) Log in to rate,[],NR,46.7860,-121.7351,19,http://www.wta.org/go-hiking/hikes/paradise-glacier
+15,Annette Lake,Snoqualmie Region,NR,NR,3.65 out of 5,(104 votes) Log in to rate,[],NR,47.3928,-121.4741,848,http://www.wta.org/go-hiking/hikes/annette-lake
+16,Antoine Peak Conservation Area - Canfield Gulch,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.7295,-117.1415,4,http://www.wta.org/go-hiking/hikes/canfield-gulch-of-antoine-peak
+17,Elwha River and Geyser Valley,Olympic Peninsula,NR,NR,2.75 out of 5,(4 votes) Log in to rate,[],NR,47.9676,-123.5824,43,http://www.wta.org/go-hiking/hikes/geyser-valley
+18,Lake Aldwell Overlook Trail,Olympic Peninsula,NR,NR,4.00 out of 5,(1 vote) Log in to rate,[],NR,48.0977,-123.5526,8,http://www.wta.org/go-hiking/hikes/lake-aldwell-overlook-trail
+19,Lover's Lane Loop,Olympic Peninsula,NR,NR,3.33 out of 5,(6 votes) Log in to rate,[],NR,47.9622,-123.8499,19,http://www.wta.org/go-hiking/hikes/lovers-lane-loop
+20,Ancient Groves,Olympic Peninsula,NR,NR,4.67 out of 5,(3 votes) Log in to rate,[],NR,47.9982,-123.9021,2,http://www.wta.org/go-hiking/hikes/ancient-groves
+21,Lake Twentytwo - Lake 22,North Cascades,NR,NR,4.22 out of 5,(183 votes) Log in to rate,[],NR,48.0770,-121.7457,1195,http://www.wta.org/go-hiking/hikes/lake-22
+22,Bordeaux Ghost Town,Olympic Peninsula,NR,NR,3.50 out of 5,(2 votes) Log in to rate,[],NR,NR,NR,34,http://www.wta.org/go-hiking/hikes/bordeaux-ghost-town
+23,Kennedy Falls,Southwest Washington,NR,NR,4.25 out of 5,(4 votes) Log in to rate,[],NR,NR,NR,9,http://www.wta.org/go-hiking/hikes/kennedy-falls
+24,Elwha To Hurricane Hill,Olympic Peninsula,NR,NR,3.00 out of 5,(4 votes) Log in to rate,[],NR,48.0138,-123.5878,18,http://www.wta.org/go-hiking/hikes/elwha-to-hurricane-hill
+25,Ilwaco - Long Beach Discovery Trail,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,46.3074,-124.0453,2,http://www.wta.org/go-hiking/hikes/ilwaco-long-beach-discovery-trail
+26,Mount Ellinor,Olympic Peninsula,NR,NR,4.47 out of 5,(75 votes) Log in to rate,[],NR,47.5066,-123.2321,491,http://www.wta.org/go-hiking/hikes/mount-ellinor
+27,Griffith-Priday State Park - Copalis River Spit,Southwest Washington,NR,NR,3.80 out of 5,(5 votes) Log in to rate,[],NR,47.1141,-124.1771,23,http://www.wta.org/go-hiking/hikes/copalis-river-spit
+28,Teneriffe Falls (Kamikaze Falls),Snoqualmie Region,NR,NR,3.75 out of 5,(20 votes) Log in to rate,[],NR,47.4862,-121.6995,449,http://www.wta.org/go-hiking/hikes/kamikaze-falls
+29,Wallace Falls State Park,Central Cascades,NR,NR,4.04 out of 5,(180 votes) Log in to rate,[],NR,47.8669,-121.6780,740,http://www.wta.org/go-hiking/hikes/wallace-falls
+30,Margaret's Way,Issaquah Alps,NR,NR,3.62 out of 5,(16 votes) Log in to rate,[],NR,47.5066,-122.0867,130,http://www.wta.org/go-hiking/hikes/margarets-way
+31,Mount Walker,Olympic Peninsula,NR,NR,3.00 out of 5,(17 votes) Log in to rate,[],NR,47.7756,-122.9137,178,http://www.wta.org/go-hiking/hikes/mount-walker
+32,Mosier Plateau,Southwest Washington,NR,NR,5.00 out of 5,(2 votes) Log in to rate,[],NR,45.6861,-121.4012,7,http://www.wta.org/go-hiking/hikes/mosier-creek-falls
+33,Wilderness Peak Loop,Issaquah Alps,NR,NR,2.67 out of 5,(9 votes) Log in to rate,[],NR,47.5093,-122.0904,118,http://www.wta.org/go-hiking/hikes/wilderness-peak
+34,Pack Forest - Little Mashel Falls,Puget Sound and Islands,NR,NR,4.00 out of 5,(5 votes) Log in to rate,[],NR,46.8432,-122.3176,68,http://www.wta.org/go-hiking/hikes/little-mashel-falls
+35,Watershed Park,Olympic Peninsula,NR,NR,4.00 out of 5,(1 vote) Log in to rate,[],NR,47.0285,-122.8891,6,http://www.wta.org/go-hiking/hikes/watershed-park
+36,Rattlesnake Ledge,Snoqualmie Region,NR,NR,3.96 out of 5,(223 votes) Log in to rate,[],NR,47.4335,-121.7675,1075,http://www.wta.org/go-hiking/hikes/rattle-snake-ledge
+37,Big Creek,Olympic Peninsula,NR,NR,3.72 out of 5,(18 votes) Log in to rate,[],NR,47.4933,-123.2110,122,http://www.wta.org/go-hiking/hikes/big-creek
+38,Chambers Bay Loop,Puget Sound and Islands,NR,NR,4.71 out of 5,(7 votes) Log in to rate,[],NR,47.2117,-122.5696,43,http://www.wta.org/go-hiking/hikes/chambers-bay-loop
+39,Swan Creek Park,Puget Sound and Islands,NR,NR,4.33 out of 5,(3 votes) Log in to rate,[],NR,47.2268,-122.3891,22,http://www.wta.org/go-hiking/hikes/swan-creek-park
+40,Point Defiance Park,Puget Sound and Islands,NR,NR,4.22 out of 5,(9 votes) Log in to rate,[],NR,47.3050,-122.5168,63,http://www.wta.org/go-hiking/hikes/point-defiance-park
+41,Tacoma Nature Center Interpretive Walks,Puget Sound and Islands,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,47.2414,-122.4921,16,http://www.wta.org/go-hiking/hikes/the-tacoma-nature-center
+42,Hardy and Rodney Falls,Southwest Washington,NR,NR,3.00 out of 5,(4 votes) Log in to rate,[],NR,45.6325,-122.0200,11,http://www.wta.org/go-hiking/hikes/hardy-rodney-falls
+43,Beacon Rock,Southwest Washington,NR,NR,2.92 out of 5,(12 votes) Log in to rate,[],NR,45.6291,-122.0219,36,http://www.wta.org/go-hiking/hikes/beacon-rock
+44,Hamilton Mountain,Southwest Washington,NR,NR,4.37 out of 5,(19 votes) Log in to rate,[],NR,45.6325,-122.0200,62,http://www.wta.org/go-hiking/hikes/hamilton-mountain
+45,Whipple Creek Park,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.7451,-122.6950,11,http://www.wta.org/go-hiking/hikes/whipple-creek-park
+46,Little Spokane River Natural Area: Knothead Loop,Eastern Washington,NR,NR,4.00 out of 5,(1 vote) Log in to rate,[],NR,47.7828,-117.4966,10,http://www.wta.org/go-hiking/hikes/little-spokane-river-natural-area-knothead-loop
+47,Ingalls Creek,Central Cascades,NR,NR,3.58 out of 5,(19 votes) Log in to rate,[],NR,47.4628,-120.6732,268,http://www.wta.org/go-hiking/hikes/ingalls-creek
+48,Snoqualmie Falls,Snoqualmie Region,NR,NR,3.35 out of 5,(17 votes) Log in to rate,[],NR,47.5437,-121.8370,95,http://www.wta.org/go-hiking/hikes/snoqualmie-falls
+49,North Twentymile Peak,North Cascades,NR,NR,3.33 out of 5,(3 votes) Log in to rate,[],NR,48.7029,-120.1050,7,http://www.wta.org/go-hiking/hikes/north-twentymile-peak
+50,Hoh River Trail to Five Mile Island,Olympic Peninsula,NR,NR,3.61 out of 5,(18 votes) Log in to rate,[],NR,47.8597,-123.9337,127,http://www.wta.org/go-hiking/hikes/hoh-river
+51,East Bank Baker Lake,North Cascades,NR,NR,3.20 out of 5,(10 votes) Log in to rate,[],NR,48.7507,-121.5560,168,http://www.wta.org/go-hiking/hikes/baker-lake
+52,Eagle Creek,Southwest Washington,NR,NR,4.67 out of 5,(6 votes) Log in to rate,[],NR,45.6383,-121.9203,33,http://www.wta.org/go-hiking/hikes/eagle-creek-1
+53,Mercer Slough Nature Park Trails,Puget Sound and Islands,NR,NR,3.20 out of 5,(5 votes) Log in to rate,[],NR,47.5915,-122.1933,16,http://www.wta.org/go-hiking/hikes/mercer-slough-nature-park-trails
+54,Rockport State Park,North Cascades,NR,NR,3.78 out of 5,(9 votes) Log in to rate,[],NR,48.4880,-121.6142,47,http://www.wta.org/go-hiking/hikes/rockport-state-park
+55,Red Mountain (Painted Mountain),North Cascades,NR,NR,3.33 out of 5,(6 votes) Log in to rate,[],NR,48.0588,-121.2899,101,http://www.wta.org/go-hiking/hikes/red-mountain
+56,Snow Bowl Hut Snowshoe,Mount Rainier Area,NR,NR,5.00 out of 5,(3 votes) Log in to rate,[],NR,46.7059,-121.9927,13,http://www.wta.org/go-hiking/hikes/snow-bowl-hut-snowshoe
+57,Snow Mountain Ranch,Central Washington,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,46.6593,-120.7556,78,http://www.wta.org/go-hiking/hikes/snow-mountain-ranch
+58,Coal Creek Falls,Issaquah Alps,NR,NR,3.29 out of 5,(35 votes) Log in to rate,[],NR,47.5348,-122.1288,173,http://www.wta.org/go-hiking/hikes/coal-creek-falls
+59,Twin Falls,Snoqualmie Region,NR,NR,4.17 out of 5,(137 votes) Log in to rate,[],NR,47.4420,-121.6761,470,http://www.wta.org/go-hiking/hikes/twin-falls-state-park
+60,River To Rock Trail,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.6214,-122.0233,4,http://www.wta.org/go-hiking/hikes/river-to-rock-trail
+61,Windy Peak,North Cascades,NR,NR,3.75 out of 5,(4 votes) Log in to rate,[],NR,48.8555,-119.9452,10,http://www.wta.org/go-hiking/hikes/windy-peak
+62,Waptus River,Snoqualmie Region,NR,NR,3.00 out of 5,(8 votes) Log in to rate,[],NR,47.4092,-121.1038,105,http://www.wta.org/go-hiking/hikes/waptus-river
+63,Lyman Lakes,Central Cascades,NR,NR,3.00 out of 5,(7 votes) Log in to rate,[],NR,48.1984,-120.7746,12,http://www.wta.org/go-hiking/hikes/lyman-lakes
+64,Deer Park,North Cascades,NR,NR,2.25 out of 5,(4 votes) Log in to rate,[],NR,48.9086,-119.9041,3,http://www.wta.org/go-hiking/hikes/deer-park
+65,Beth Lake,Eastern Washington,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,48.8494,-118.9674,1,http://www.wta.org/go-hiking/hikes/beth-lake
+66,Cabin Trail,Eastern Washington,NR,NR,4.25 out of 5,(4 votes) Log in to rate,[],NR,48.7709,-119.1838,0,http://www.wta.org/go-hiking/hikes/cabin-trail
+67,Big Tree Trail,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.8526,-119.0491,2,http://www.wta.org/go-hiking/hikes/big-tree-trail-2
+68,Strawberry Mountain,Eastern Washington,NR,NR,2.00 out of 5,(3 votes) Log in to rate,[],NR,48.8526,-119.0491,3,http://www.wta.org/go-hiking/hikes/strawberry
+69,Lewisville Regional Park,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.8190,-122.5452,1,http://www.wta.org/go-hiking/hikes/lewisville-regional-park
+70,Salmon Creek Trail,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.7075,-122.6658,12,http://www.wta.org/go-hiking/hikes/salmon-creek-trail
+71,Frenchman's Bar,Southwest Washington,NR,NR,3.00 out of 5,(1 vote) Log in to rate,[],NR,45.6855,-122.7614,0,http://www.wta.org/go-hiking/hikes/frenchmans-bar
+72,Vancouver Lake - North Trail,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.6790,-122.7429,7,http://www.wta.org/go-hiking/hikes/vancouver-lake
+73,Tarbell Trail,Southwest Washington,NR,NR,2.33 out of 5,(3 votes) Log in to rate,[],NR,45.7757,-122.3378,20,http://www.wta.org/go-hiking/hikes/tarbell-trail
+74,Bare Mountain,Snoqualmie Region,NR,NR,4.00 out of 5,(16 votes) Log in to rate,[],NR,47.6395,-121.5283,177,http://www.wta.org/go-hiking/hikes/bare-mountain
+75,Carkeek Park,Puget Sound and Islands,NR,NR,3.57 out of 5,(7 votes) Log in to rate,[],NR,47.7033,-122.3634,49,http://www.wta.org/go-hiking/hikes/carkeek-park
+76,Pacific Crest Trail (PCT) Section J - Snoqualmie Pass to Stevens Pass - East,Snoqualmie Region,NR,NR,4.50 out of 5,(8 votes) Log in to rate,[],NR,47.4278,-121.4135,129,http://www.wta.org/go-hiking/hikes/pacific-crest-trail-section-j-snoqualmie-pass-to-stevens-pass-east
+77,The Enchantments,Central Cascades,NR,NR,4.55 out of 5,(76 votes) Log in to rate,[],NR,47.5279,-120.8207,366,http://www.wta.org/go-hiking/hikes/enchantment-lakes
+78,West Tiger 3,Issaquah Alps,NR,NR,3.30 out of 5,(23 votes) Log in to rate,[],NR,47.5296,-121.9956,364,http://www.wta.org/go-hiking/hikes/west-tiger-3
+79,Camp Muir,Mount Rainier Area,NR,NR,4.37 out of 5,(27 votes) Log in to rate,[],NR,46.7860,-121.7350,271,http://www.wta.org/go-hiking/hikes/camp-muir
+80,Rattlesnake Dance Ridge Trail,Central Washington,NR,NR,4.00 out of 5,(1 vote) Log in to rate,[],NR,46.8973,-120.5039,42,http://www.wta.org/go-hiking/hikes/rattlesnake-dance-ridge-trail
+81,Mount Si,Snoqualmie Region,NR,NR,4.02 out of 5,(163 votes) Log in to rate,[],NR,47.4880,-121.7231,1212,http://www.wta.org/go-hiking/hikes/mount-si
+82,Cherry Creek Falls,Central Cascades,NR,NR,3.71 out of 5,(17 votes) Log in to rate,[],NR,47.7457,-121.9076,196,http://www.wta.org/go-hiking/hikes/cherry-creek-falls
+83,Westberg Trail,Central Washington,NR,NR,3.78 out of 5,(9 votes) Log in to rate,[],NR,46.9679,-120.6454,51,http://www.wta.org/go-hiking/hikes/westberg-trail
+84,Notch Pass,Olympic Peninsula,NR,NR,4.00 out of 5,(6 votes) Log in to rate,[],NR,47.8262,-122.9389,50,http://www.wta.org/go-hiking/hikes/notch-pass
+85,Rialto Beach and Hole-in-the-Wall,Olympic Peninsula,NR,NR,4.06 out of 5,(17 votes) Log in to rate,[],NR,47.9211,-124.6382,80,http://www.wta.org/go-hiking/hikes/rialto-beach-hole-in-the-wall
+86,Yakima Sportsman State Park,Central Washington,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,46.5919,-120.4533,3,http://www.wta.org/go-hiking/hikes/yakima-sportsman-state-park
+87,Hilburn Preserve,Olympic Peninsula,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.2087,-123.1374,1,http://www.wta.org/go-hiking/hikes/hilburn-preserve
+88,Lanham Lake Snowshoe,Central Cascades,NR,NR,3.44 out of 5,(9 votes) Log in to rate,[],NR,47.7727,-121.0125,65,http://www.wta.org/go-hiking/hikes/lanham-lake-snowshoe
+89,Kettle Crest Trail,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4960,-118.4079,2,http://www.wta.org/go-hiking/hikes/kettle-crest-trail
+90,Lewis and Clark Trail State Park,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,46.2896,-118.0713,0,http://www.wta.org/go-hiking/hikes/lewis-and-clark-trail-state-park
+91,South Hill Bluff,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.6286,-117.4297,0,http://www.wta.org/go-hiking/hikes/south-hill-bluff
+92,Kalispell Rock,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.6337,-117.1017,1,http://www.wta.org/go-hiking/hikes/kalispell-rock
+93,Roosevelt Grove of Ancient Cedars,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.7665,-117.0624,0,http://www.wta.org/go-hiking/hikes/roosevelt-grove-of-ancient-cedars
+94,Midnight Mountain,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.7285,-118.5216,0,http://www.wta.org/go-hiking/hikes/midnight-mountain
+95,Curlew Lake State Park - Curlew Lake Nature Trail,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.7178,-118.6641,0,http://www.wta.org/go-hiking/hikes/curlew-lake-nature-trail
+96,Ghost Lake,South Cascades,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,46.3051,-122.0826,0,http://www.wta.org/go-hiking/hikes/ghost-lake
+97,Dry Creek Falls,Southwest Washington,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,45.6624,-121.8965,1,http://www.wta.org/go-hiking/hikes/dry-creek-falls
+98,Bear Lake,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.6363,-121.7426,0,http://www.wta.org/go-hiking/hikes/bear-lake-3
+99,Stacker Butte,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.6949,-121.0925,2,http://www.wta.org/go-hiking/hikes/stacker-butte
+100,Bell Point and English Camp,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.5865,-123.1479,3,http://www.wta.org/go-hiking/hikes/bell-point-and-english-camp
+101,Coast Trail: Mount Maguire Loop,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.3534,-123.7020,0,http://www.wta.org/go-hiking/hikes/coast-trail-mount-maguire-loop
+102,Goldstream Provincial Park: Grand Loop,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4799,-123.5483,0,http://www.wta.org/go-hiking/hikes/goldstream-provincial-park-grand-loop
+103,King Sisters Preserve,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.5292,-123.0989,0,http://www.wta.org/go-hiking/hikes/king-sisters-preserve
+104,Frazer Homestead Preserve,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4649,-123.0243,0,http://www.wta.org/go-hiking/hikes/frazer-homestead-preserve
+105,Briggs Lake,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.5977,-123.1317,0,http://www.wta.org/go-hiking/hikes/briggs-lake
+106,American Camp and South Beach,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4645,-123.0239,1,http://www.wta.org/go-hiking/hikes/american-camp-and-south-beach
+107,Strawberry Bay and Reef Point,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.5867,-122.6955,0,http://www.wta.org/go-hiking/hikes/strawberry-bay-and-reef-point
+108,Big Beaver Pond,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4916,-122.6363,0,http://www.wta.org/go-hiking/hikes/big-beaver-pond
+109,Guemes Channel and Ship Harbor,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.5036,-122.6706,0,http://www.wta.org/go-hiking/hikes/guemes-channel-and-ship-harbor
+110,George C Reifel Migratory Bird Sanctuary,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,49.0985,-123.1784,1,http://www.wta.org/go-hiking/hikes/george-c-reifel-migratory-bird-sanctuary
+111,Cascade Falls,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.6480,-122.8460,0,http://www.wta.org/go-hiking/hikes/cascade-falls
+112,Sunrise Rock,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.6480,-122.8460,0,http://www.wta.org/go-hiking/hikes/sunrise-rock
+113,Washington Park,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4991,-122.6927,2,http://www.wta.org/go-hiking/hikes/washington-park
+114,Turtleback Mountain Preserve: Ship Peak Loop,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.6416,-122.9771,11,http://www.wta.org/go-hiking/hikes/turtleback-mountain-preserve-ship-peak-loop
+115,Colquhoun Peak,Mount Rainier Area,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.1322,-121.4598,6,http://www.wta.org/go-hiking/hikes/colquhon-peak
+116,Pyramid Peak,Mount Rainier Area,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.1157,-121.4064,5,http://www.wta.org/go-hiking/hikes/pyramid-peak
+117,Echo Mountain,Puget Sound and Islands,NR,NR,2.00 out of 5,(1 vote) Log in to rate,[],NR,47.4370,-122.0941,10,http://www.wta.org/go-hiking/hikes/echo-mountain
+118,Oneonta Gorge,Southwest Washington,NR,NR,4.00 out of 5,(3 votes) Log in to rate,[],NR,45.5908,-122.0685,9,http://www.wta.org/go-hiking/hikes/oneonta-gorge
+119,Elowah and Upper McCord Creek Falls,Southwest Washington,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,45.6124,-122.0043,4,http://www.wta.org/go-hiking/hikes/elowah-and-upper-mccord-creek-falls
+120,Latourell Falls,Southwest Washington,NR,NR,3.00 out of 5,(2 votes) Log in to rate,[],NR,45.5387,-122.2177,4,http://www.wta.org/go-hiking/hikes/latourell-falls
+121,Multnomah Falls,Southwest Washington,NR,NR,3.67 out of 5,(6 votes) Log in to rate,[],NR,45.5774,-122.1167,22,http://www.wta.org/go-hiking/hikes/multnomah-falls
+122,Dewey Lake,Mount Rainier Area,NR,NR,3.75 out of 5,(20 votes) Log in to rate,[],NR,46.8694,-121.5197,115,http://www.wta.org/go-hiking/hikes/dewey-lakes
+123,Surprise Lake,South Cascades,NR,NR,3.45 out of 5,(11 votes) Log in to rate,[],NR,46.4930,-121.3068,22,http://www.wta.org/go-hiking/hikes/surprise-lake-2
+124,Big Four Ice Caves,North Cascades,NR,NR,3.93 out of 5,(74 votes) Log in to rate,[],NR,48.0659,-121.5107,400,http://www.wta.org/go-hiking/hikes/big-four-ice-caves
+125,Ape Caves,South Cascades,NR,NR,4.41 out of 5,(39 votes) Log in to rate,[],NR,46.1083,-122.2115,113,http://www.wta.org/go-hiking/hikes/ape-cave
+126,Badger Mountain - Skyline Loop,Central Washington,NR,NR,4.13 out of 5,(8 votes) Log in to rate,[],NR,46.2367,-119.2976,18,http://www.wta.org/go-hiking/hikes/badger-mountain-1
+127,Mailbox Peak - Old Trail,Snoqualmie Region,NR,NR,4.34 out of 5,(100 votes) Log in to rate,[],NR,47.4674,-121.6748,883,http://www.wta.org/go-hiking/hikes/mailbox-peak-old-trail
+128,Mount Pilchuck,North Cascades,NR,NR,4.44 out of 5,(103 votes) Log in to rate,[],NR,48.0621,-121.8107,940,http://www.wta.org/go-hiking/hikes/mount-pilchuck
+129,Panther Creek Falls,Southwest Washington,NR,NR,5.00 out of 5,(2 votes) Log in to rate,[],NR,45.8674,-121.8263,12,http://www.wta.org/go-hiking/hikes/panther-creek-falls
+130,Cape Alava Loop (Ozette Triangle),Olympic Peninsula,NR,NR,4.11 out of 5,(36 votes) Log in to rate,[],NR,48.1536,-124.6679,205,http://www.wta.org/go-hiking/hikes/lake-ozette
+131,Middle Fork Snoqualmie River,Snoqualmie Region,NR,NR,3.75 out of 5,(20 votes) Log in to rate,[],NR,47.5480,-121.5384,313,http://www.wta.org/go-hiking/hikes/middle-fork-snoqualmie-upstream
+132,Heather - Maple Pass Loop,North Cascades,NR,NR,4.71 out of 5,(51 votes) Log in to rate,[],NR,48.5162,-120.7354,350,http://www.wta.org/go-hiking/hikes/maple-pass
+133,Boulder River,North Cascades,NR,NR,3.80 out of 5,(89 votes) Log in to rate,[],NR,48.2509,-121.8172,556,http://www.wta.org/go-hiking/hikes/boulder-river
+134,Colchuck Lake,Central Cascades,NR,NR,4.23 out of 5,(57 votes) Log in to rate,[],NR,47.5277,-120.8210,538,http://www.wta.org/go-hiking/hikes/colchuck-lake
+135,Central Peak,Issaquah Alps,NR,NR,2.80 out of 5,(5 votes) Log in to rate,[],NR,47.4817,-122.0532,97,http://www.wta.org/go-hiking/hikes/central-peak
+136,Bullitt Fireplace Trail,Issaquah Alps,NR,NR,1.80 out of 5,(5 votes) Log in to rate,[],NR,47.5211,-122.0560,100,http://www.wta.org/go-hiking/hikes/bullitt-fireplace
+137,Bridal Veil Falls,Central Cascades,NR,NR,3.78 out of 5,(36 votes) Log in to rate,[],NR,47.7818,-121.5884,199,http://www.wta.org/go-hiking/hikes/bridal-veil-falls
+138,Thornton Lakes and Trappers Peak,North Cascades,NR,NR,4.31 out of 5,(16 votes) Log in to rate,[],NR,48.6537,-121.3242,88,http://www.wta.org/go-hiking/hikes/thornton-lakes-and-trappers-peak
+139,Blanca Lake,Central Cascades,NR,NR,4.38 out of 5,(105 votes) Log in to rate,[],NR,47.9154,-121.3124,511,http://www.wta.org/go-hiking/hikes/blanca-lake
+140,Aasgard Pass,Central Cascades,NR,NR,3.67 out of 5,(3 votes) Log in to rate,[],NR,47.5279,-120.8207,118,http://www.wta.org/go-hiking/hikes/aasgard-pass
+141,Kendall Katwalk,Snoqualmie Region,NR,NR,3.98 out of 5,(48 votes) Log in to rate,[],NR,47.4287,-121.4134,380,http://www.wta.org/go-hiking/hikes/kendall-katwalk
+142,Oyster Dome,Puget Sound and Islands,NR,NR,4.01 out of 5,(92 votes) Log in to rate,[],NR,48.6096,-122.4264,484,http://www.wta.org/go-hiking/hikes/oyster-dome
+143,Deception Falls National Recreation Area,Central Cascades,NR,NR,3.00 out of 5,(8 votes) Log in to rate,[],NR,47.7146,-121.1934,41,http://www.wta.org/go-hiking/hikes/deception-falls-nra
+144,Discovery Park Loop Trail,Puget Sound and Islands,NR,NR,3.44 out of 5,(18 votes) Log in to rate,[],NR,47.6576,-122.4065,62,http://www.wta.org/go-hiking/hikes/seattle-magnolia-area-beach-discovery-park
+145,Hall of Mosses,Olympic Peninsula,NR,NR,4.44 out of 5,(9 votes) Log in to rate,[],NR,47.8536,-123.9512,26,http://www.wta.org/go-hiking/hikes/hall-of-mosses
+146,Mailbox Peak,Snoqualmie Region,NR,NR,4.10 out of 5,(31 votes) Log in to rate,[],NR,47.4675,-121.6748,320,http://www.wta.org/go-hiking/hikes/mailbox-peak
+147,Lake Serene - Bridal Veil Falls,Central Cascades,NR,NR,4.47 out of 5,(242 votes) Log in to rate,[],NR,47.8090,-121.5738,1170,http://www.wta.org/go-hiking/hikes/lake-serene
+148,Mount Washington,Snoqualmie Region,NR,NR,3.88 out of 5,(42 votes) Log in to rate,[],NR,47.4420,-121.6722,520,http://www.wta.org/go-hiking/hikes/mount-washington-1
+149,Granite Mountain,Snoqualmie Region,NR,NR,4.35 out of 5,(80 votes) Log in to rate,[],NR,47.3979,-121.4860,948,http://www.wta.org/go-hiking/hikes/granite-mountain-1
+150,Bandera Mountain,Snoqualmie Region,NR,NR,4.22 out of 5,(68 votes) Log in to rate,[],NR,47.4247,-121.5836,630,http://www.wta.org/go-hiking/hikes/bandera-mountain
+151,Mount Si - Old Trail,Snoqualmie Region,NR,NR,4.53 out of 5,(17 votes) Log in to rate,[],NR,47.4408,-121.6253,174,http://www.wta.org/go-hiking/hikes/mount-si-old-trail
+152,Little Si,Snoqualmie Region,NR,NR,3.53 out of 5,(98 votes) Log in to rate,[],NR,47.4878,-121.7563,527,http://www.wta.org/go-hiking/hikes/little-si
+153,Heybrook Lookout,Central Cascades,NR,NR,3.44 out of 5,(36 votes) Log in to rate,[],NR,47.8084,-121.5352,320,http://www.wta.org/go-hiking/hikes/heybrook-lookout
+154,Heather Lake,North Cascades,NR,NR,3.88 out of 5,(80 votes) Log in to rate,[],NR,48.0829,-121.7740,744,http://www.wta.org/go-hiking/hikes/heather-lake-1
+155,Ginkgo Petrified Forest Interpretive Trails,Central Washington,NR,NR,2.90 out of 5,(10 votes) Log in to rate,[],NR,46.9477,-120.0358,22,http://www.wta.org/go-hiking/hikes/gingko-petrified-forest-interpretive-trails
+156,Barclay Lake,Central Cascades,NR,NR,3.94 out of 5,(50 votes) Log in to rate,[],NR,47.7917,-121.4559,466,http://www.wta.org/go-hiking/hikes/barclay-lake
+157,Lord Hill Regional Park,Puget Sound and Islands,NR,NR,3.33 out of 5,(6 votes) Log in to rate,[],NR,47.8611,-122.0589,146,http://www.wta.org/go-hiking/hikes/lord-hill-regional-park
+158,Three Lakes,Olympic Peninsula,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,47.5676,-123.6553,14,http://www.wta.org/go-hiking/hikes/three-lakes-1
+159,Deer Ridge,Olympic Peninsula,NR,NR,2.22 out of 5,(9 votes) Log in to rate,[],NR,47.9652,-123.1936,51,http://www.wta.org/go-hiking/hikes/deer-ridge
+160,Quillayute River Slough,Olympic Peninsula,NR,NR,2.50 out of 5,(4 votes) Log in to rate,[],NR,47.9181,-124.6027,2,http://www.wta.org/go-hiking/hikes/quillayute-river
+161,Quinault National Recreation Trails,Olympic Peninsula,NR,NR,2.17 out of 5,(6 votes) Log in to rate,[],NR,47.4599,-123.8621,23,http://www.wta.org/go-hiking/hikes/quinault-rain-forest-loop
+162,PJ Lake,Olympic Peninsula,NR,NR,2.50 out of 5,(6 votes) Log in to rate,[],NR,47.9458,-123.4255,8,http://www.wta.org/go-hiking/hikes/pj-lake
+163,North Fork Sol Duc River,Olympic Peninsula,NR,NR,3.00 out of 5,(7 votes) Log in to rate,[],NR,48.0108,-123.9110,6,http://www.wta.org/go-hiking/hikes/north-fork-sol-duc-river
+164,Mount Storm King,Olympic Peninsula,NR,NR,3.57 out of 5,(14 votes) Log in to rate,[],NR,48.0582,-123.7892,86,http://www.wta.org/go-hiking/hikes/mount-storm-king
+165,Ned Hill,Olympic Peninsula,NR,NR,1.80 out of 5,(5 votes) Log in to rate,[],NR,47.9680,-123.1877,9,http://www.wta.org/go-hiking/hikes/ned-hill
+166,Mount Muller,Olympic Peninsula,NR,NR,3.46 out of 5,(13 votes) Log in to rate,[],NR,48.0760,-124.0131,41,http://www.wta.org/go-hiking/hikes/mount-muller
+167,Mount Jupiter,Olympic Peninsula,NR,NR,3.00 out of 5,(9 votes) Log in to rate,[],NR,47.6842,-122.9569,75,http://www.wta.org/go-hiking/hikes/mount-jupiter
+168,Lower Big Quilcene River,Olympic Peninsula,NR,NR,3.67 out of 5,(6 votes) Log in to rate,[],NR,47.7835,-122.9651,100,http://www.wta.org/go-hiking/hikes/lower-big-quilcene-river
+169,Lake Constance,Olympic Peninsula,NR,NR,3.20 out of 5,(10 votes) Log in to rate,[],NR,47.7296,-123.1417,49,http://www.wta.org/go-hiking/hikes/lake-constance
+170,Kestner Homestead,Olympic Peninsula,NR,NR,3.00 out of 5,(1 vote) Log in to rate,[],NR,47.5052,-123.8213,3,http://www.wta.org/go-hiking/hikes/kestner-homestead
+171,Heather Park,Olympic Peninsula,NR,NR,3.11 out of 5,(9 votes) Log in to rate,[],NR,48.0391,-123.4319,32,http://www.wta.org/go-hiking/hikes/heather-park
+172,Griff Creek,Olympic Peninsula,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,48.0166,-123.5901,8,http://www.wta.org/go-hiking/hikes/griff-creek
+173,Elk Lakes,Olympic Peninsula,NR,NR,2.25 out of 5,(4 votes) Log in to rate,[],NR,47.5793,-123.1204,23,http://www.wta.org/go-hiking/hikes/elk-lake
+174,North Fork Skokomish River and Flapjack Lakes,Olympic Peninsula,NR,NR,3.91 out of 5,(11 votes) Log in to rate,[],NR,47.5161,-123.3282,107,http://www.wta.org/go-hiking/hikes/flapjack-lakes
+175,Fletcher Canyon,Olympic Peninsula,NR,NR,3.00 out of 5,(4 votes) Log in to rate,[],NR,47.5277,-123.7065,10,http://www.wta.org/go-hiking/hikes/fletcher-canyon
+176,Dosewallips River Road,Olympic Peninsula,NR,NR,3.20 out of 5,(5 votes) Log in to rate,[],NR,47.7391,-123.0729,78,http://www.wta.org/go-hiking/hikes/dosewallips-river
+177,Cascade Rock,Olympic Peninsula,NR,NR,4.25 out of 5,(4 votes) Log in to rate,[],NR,48.0275,-123.5883,1,http://www.wta.org/go-hiking/hikes/cascade-rock
+178,Bogachiel Peak,Olympic Peninsula,NR,NR,2.50 out of 5,(6 votes) Log in to rate,[],NR,47.9552,-123.8350,35,http://www.wta.org/go-hiking/hikes/bogachiel-peak
+179,Baldy,Olympic Peninsula,NR,NR,3.25 out of 5,(4 votes) Log in to rate,[],NR,47.8779,-123.1369,11,http://www.wta.org/go-hiking/hikes/baldy
+180,North Fork Quinault River and Halfway House,Olympic Peninsula,NR,NR,3.00 out of 5,(7 votes) Log in to rate,[],NR,47.5757,-123.6482,55,http://www.wta.org/go-hiking/hikes/north-fork-quinault-river-halfway-house
+181,Upper South Fork Skokomish River,Olympic Peninsula,NR,NR,3.44 out of 5,(9 votes) Log in to rate,[],NR,47.4794,-123.4521,63,http://www.wta.org/go-hiking/hikes/upper-south-fork-skokomish-river
+182,Sunrise Ridge,Olympic Peninsula,NR,NR,3.00 out of 5,(7 votes) Log in to rate,[],NR,47.9701,-123.4950,35,http://www.wta.org/go-hiking/hikes/sunrise-ridge
+183,South Indian Island,Olympic Peninsula,NR,NR,3.17 out of 5,(6 votes) Log in to rate,[],NR,48.0319,-122.7291,14,http://www.wta.org/go-hiking/hikes/south-indian-island
+184,Goat Lake,South Cascades,NR,NR,4.11 out of 5,(9 votes) Log in to rate,[],NR,46.4669,-121.5274,47,http://www.wta.org/go-hiking/hikes/goat-lake-1
+185,Lakes Trail,South Cascades,NR,NR,3.27 out of 5,(11 votes) Log in to rate,[],NR,46.2915,-122.2671,55,http://www.wta.org/go-hiking/hikes/lakes-trail-1
+186,Capitol State Forest - Sherman Creek Loop,Olympic Peninsula,NR,NR,4.00 out of 5,(6 votes) Log in to rate,[],NR,46.9194,-123.1130,22,http://www.wta.org/go-hiking/hikes/sherman-creek
+187,Guemes Mountain,Puget Sound and Islands,NR,NR,3.33 out of 5,(3 votes) Log in to rate,[],NR,48.5445,-122.5945,22,http://www.wta.org/go-hiking/hikes/guemes-mountain
+188,Lila Lake,Snoqualmie Region,NR,NR,4.56 out of 5,(9 votes) Log in to rate,[],NR,47.4008,-121.2836,50,http://www.wta.org/go-hiking/hikes/lila-lake
+189,Burley Mountain,South Cascades,NR,NR,3.17 out of 5,(6 votes) Log in to rate,[],NR,46.4388,-121.8520,11,http://www.wta.org/go-hiking/hikes/burley-mountain
+190,Angel Falls Loop,South Cascades,NR,NR,2.43 out of 5,(7 votes) Log in to rate,[],NR,46.4388,-121.8520,17,http://www.wta.org/go-hiking/hikes/covel-creek-falls
+191,Escure Ranch - Towell Falls,Central Washington,NR,NR,3.50 out of 5,(6 votes) Log in to rate,[],NR,47.0143,-117.9436,19,http://www.wta.org/go-hiking/hikes/towell-falls
+192,Skagit Wildlife Area,Puget Sound and Islands,NR,NR,4.00 out of 5,(4 votes) Log in to rate,[],NR,48.3372,-122.3581,64,http://www.wta.org/go-hiking/hikes/big-ditch-skagit-wildlife-refuge
+193,Cedar Falls Snowshoe,North Cascades,NR,NR,4.33 out of 5,(3 votes) Log in to rate,[],NR,48.5804,-120.4820,3,http://www.wta.org/go-hiking/hikes/cedar-falls-snowshoe
+194,Field Springs State Park - Puffer Butte,Eastern Washington,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,46.0801,-117.1685,3,http://www.wta.org/go-hiking/hikes/puffer-butte
+195,Tolmie State Park - Four Cedars Trail,Puget Sound and Islands,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,47.1204,-122.7770,23,http://www.wta.org/go-hiking/hikes/4-cedars-trail
+196,West Hylebos Wetlands,Puget Sound and Islands,NR,NR,2.83 out of 5,(6 votes) Log in to rate,[],NR,47.2898,-122.3293,8,http://www.wta.org/go-hiking/hikes/west-hylebos-wetlands
+197,Wallace Falls - Lake Loop,Central Cascades,NR,NR,3.27 out of 5,(11 votes) Log in to rate,[],NR,47.8670,-121.6782,112,http://www.wta.org/go-hiking/hikes/wallace-falls-lake-loop
+198,Striped Peak,Olympic Peninsula,NR,NR,3.22 out of 5,(9 votes) Log in to rate,[],NR,48.1622,-123.6986,14,http://www.wta.org/go-hiking/hikes/striped-peak
+199,Willapa National Wildlife Refuge - Art Walk,Southwest Washington,NR,NR,2.80 out of 5,(5 votes) Log in to rate,[],NR,46.4122,-123.9400,4,http://www.wta.org/go-hiking/hikes/willapa-national-wildlife-refuge-long-island
+200,Dry Creek,Olympic Peninsula,NR,NR,2.60 out of 5,(5 votes) Log in to rate,[],NR,47.5015,-123.3206,44,http://www.wta.org/go-hiking/hikes/dry-creek
+201,Tunnel Creek,Olympic Peninsula,NR,NR,3.33 out of 5,(9 votes) Log in to rate,[],NR,47.7815,-123.0521,101,http://www.wta.org/go-hiking/hikes/tunnel-creek-1
+202,High Hut Snowshoe,Mount Rainier Area,NR,NR,3.00 out of 5,(2 votes) Log in to rate,[],NR,46.6998,-121.9925,26,http://www.wta.org/go-hiking/hikes/high-hut-mt.-tahoma-trails
+203,Mount Erie,Puget Sound and Islands,NR,NR,4.71 out of 5,(7 votes) Log in to rate,[],NR,48.4690,-122.6294,51,http://www.wta.org/go-hiking/hikes/mount-erie
+204,Cattle Point Lighthouse,Puget Sound and Islands,NR,NR,5.00 out of 5,(1 vote) Log in to rate,[],NR,48.4536,-122.9634,4,http://www.wta.org/go-hiking/hikes/cattle-point-lighthouse
+205,Discovery Park Beach and Highlands Loop,Puget Sound and Islands,NR,NR,4.00 out of 5,(1 vote) Log in to rate,[],NR,47.6579,-122.4061,15,http://www.wta.org/go-hiking/hikes/discovery-park-beach-and-history
+206,Grove of the Patriarchs Loop,Mount Rainier Area,NR,NR,3.38 out of 5,(13 votes) Log in to rate,[],NR,46.7580,-121.5576,81,http://www.wta.org/go-hiking/hikes/grove-of-the-patriarchs
+207,Ohanapecosh Hot Springs,Mount Rainier Area,NR,NR,4.00 out of 5,(6 votes) Log in to rate,[],NR,46.7330,-121.5693,8,http://www.wta.org/go-hiking/hikes/ohanapecosh-hot-springs
+208,Silver Falls Loop,Mount Rainier Area,NR,NR,3.38 out of 5,(16 votes) Log in to rate,[],NR,46.7330,-121.5693,73,http://www.wta.org/go-hiking/hikes/silver-falls-loop
+209,Shady Lane,Olympic Peninsula,NR,NR,3.44 out of 5,(9 votes) Log in to rate,[],NR,47.5153,-123.3229,15,http://www.wta.org/go-hiking/hikes/shady-lane
+210,Eruption Trail,South Cascades,NR,NR,2.33 out of 5,(3 votes) Log in to rate,[],NR,46.2765,-122.2165,9,http://www.wta.org/go-hiking/hikes/eruption-trail
+211,Trail of the Shadows,Mount Rainier Area,NR,NR,2.56 out of 5,(9 votes) Log in to rate,[],NR,46.7497,-121.8107,31,http://www.wta.org/go-hiking/hikes/trail-of-the-shadows
+212,Murhut Falls,Olympic Peninsula,NR,NR,3.57 out of 5,(14 votes) Log in to rate,[],NR,47.6764,-123.0205,107,http://www.wta.org/go-hiking/hikes/murhut-falls
+213,Rocky Brook Falls,Olympic Peninsula,NR,NR,3.17 out of 5,(6 votes) Log in to rate,[],NR,47.7092,-122.9205,31,http://www.wta.org/go-hiking/hikes/rocky-brook-falls
+214,Hoodsport Trail,Olympic Peninsula,NR,NR,3.00 out of 5,(1 vote) Log in to rate,[],NR,47.4141,-123.1926,2,http://www.wta.org/go-hiking/hikes/hoodsport-trail
+215,Greenwater Trail to Lost Lakes,Mount Rainier Area,NR,NR,5.00 out of 5,(1 vote) Log in to rate,[],NR,47.1059,-121.4751,51,http://www.wta.org/go-hiking/hikes/greenwater-lakes-quinn-lost-lakes
+216,Turnbull National Wildlife Refuge,Eastern Washington,NR,NR,3.57 out of 5,(7 votes) Log in to rate,[],NR,47.4168,-117.5311,5,http://www.wta.org/go-hiking/hikes/turnbull-national-wildlife-refuge
+217,Shadow of The Sentinels,North Cascades,NR,NR,2.75 out of 5,(4 votes) Log in to rate,[],NR,48.6395,-121.7237,13,http://www.wta.org/go-hiking/hikes/shadow-of-the-sentinels
+218,Nason Ridge Snowshoe,Central Cascades,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.8000,-120.7239,6,http://www.wta.org/go-hiking/hikes/nason-ridge-snowshoe
+219,Lake Wenatchee State Park,Central Cascades,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,47.8076,-120.7262,8,http://www.wta.org/go-hiking/hikes/lake-wenatchee-state-park-shore-trail
+220,Golden Gardens Park,Puget Sound and Islands,NR,NR,3.00 out of 5,(1 vote) Log in to rate,[],NR,47.6906,-122.3984,6,http://www.wta.org/go-hiking/hikes/golden-gardens-park
+221,Cowen and Ravenna Parks,Puget Sound and Islands,NR,NR,3.00 out of 5,(2 votes) Log in to rate,[],NR,47.6720,-122.3144,9,http://www.wta.org/go-hiking/hikes/cowen-and-ravenna-parks
+222,Green Lake,Puget Sound and Islands,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,47.6690,-122.3401,10,http://www.wta.org/go-hiking/hikes/green-lake-1
+223,Skyline Trail Loop,Mount Rainier Area,NR,NR,4.49 out of 5,(35 votes) Log in to rate,[],NR,46.7860,-121.7350,215,http://www.wta.org/go-hiking/hikes/skyline
+224,Lower Gold Creek Basin Snowshoe,Snoqualmie Region,NR,NR,3.38 out of 5,(13 votes) Log in to rate,[],NR,47.3895,-121.3803,123,http://www.wta.org/go-hiking/hikes/lower-gold-creek-basin-snowshoe
+225,Artist Point Snowshoe,North Cascades,NR,NR,4.27 out of 5,(11 votes) Log in to rate,[],NR,48.8467,-121.6910,152,http://www.wta.org/go-hiking/hikes/artist-point-snowshoe
+226,Baker Preserve,Puget Sound and Islands,NR,NR,4.50 out of 5,(2 votes) Log in to rate,[],NR,48.6948,-122.6626,18,http://www.wta.org/go-hiking/hikes/baker-preserve
+227,Dosewallips State Park - Steam Donkey Trail,Olympic Peninsula,NR,NR,2.86 out of 5,(7 votes) Log in to rate,[],NR,47.6876,-122.8999,47,http://www.wta.org/go-hiking/hikes/dosewallips-river-state-park
+228,South Access Road,Issaquah Alps,NR,NR,2.00 out of 5,(5 votes) Log in to rate,[],NR,47.4841,-122.0434,15,http://www.wta.org/go-hiking/hikes/south-access
+229,Phils Trail - Thrush Gap Loop,Issaquah Alps,NR,NR,2.40 out of 5,(5 votes) Log in to rate,[],NR,47.4818,-122.0541,17,http://www.wta.org/go-hiking/hikes/phils-trail-thrush-gap-loop
+230,Table Mountain,Southwest Washington,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,45.6479,-121.9795,20,http://www.wta.org/go-hiking/hikes/table-mountain-3
+231,Ebey's Landing,Puget Sound and Islands,NR,NR,3.97 out of 5,(31 votes) Log in to rate,[],NR,48.2049,-122.7060,200,http://www.wta.org/go-hiking/hikes/ebeys-landing
+232,Lily Lake Loop,Puget Sound and Islands,NR,NR,3.00 out of 5,(2 votes) Log in to rate,[],NR,48.6169,-122.3857,9,http://www.wta.org/go-hiking/hikes/lily-lake-loop
+233,Elbo Creek,Olympic Peninsula,NR,NR,3.00 out of 5,(3 votes) Log in to rate,[],NR,47.7740,-122.9145,16,http://www.wta.org/go-hiking/hikes/elbo-creek
+234,Franklin Ghost Town,Mount Rainier Area,NR,NR,2.57 out of 5,(7 votes) Log in to rate,[],NR,47.3011,-121.9524,43,http://www.wta.org/go-hiking/hikes/franklin-ghost-town
+235,Royal Basin - Royal Lake,Olympic Peninsula,NR,NR,3.86 out of 5,(22 votes) Log in to rate,[],NR,47.8779,-123.1370,143,http://www.wta.org/go-hiking/hikes/royal-basin
+236,Enchanted Valley via East Fork Quinault River,Olympic Peninsula,NR,NR,3.67 out of 5,(9 votes) Log in to rate,[],NR,47.5730,-123.5694,105,http://www.wta.org/go-hiking/hikes/enchanted-valley
+237,Snider-Jackson Traverse,Olympic Peninsula,NR,NR,2.60 out of 5,(5 votes) Log in to rate,[],NR,47.9377,-124.1654,12,http://www.wta.org/go-hiking/hikes/rugged-ridge
+238,Queets Campground Loop,Olympic Peninsula,NR,NR,3.60 out of 5,(5 votes) Log in to rate,[],NR,47.6164,-124.0321,4,http://www.wta.org/go-hiking/hikes/sams-river
+239,Cape Alava,Olympic Peninsula,NR,NR,3.22 out of 5,(9 votes) Log in to rate,[],NR,48.1537,-124.6687,40,http://www.wta.org/go-hiking/hikes/cape-alava
+240,Ocean City State Park,Olympic Peninsula,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.0315,-124.1568,1,http://www.wta.org/go-hiking/hikes/ocean-city-state-park
+241,Aldrich Butte,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.6554,-121.9607,4,http://www.wta.org/go-hiking/hikes/aldrich-butte
+242,Hope Island Marine State Park,Olympic Peninsula,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.1910,-122.9249,1,http://www.wta.org/go-hiking/hikes/hope-island-marine-state-park
+243,Frosty Pass,Central Cascades,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.5830,-120.6834,5,http://www.wta.org/go-hiking/hikes/frosty-pass
+244,Icicle Ridge,Central Cascades,NR,NR,3.42 out of 5,(12 votes) Log in to rate,[],NR,47.5830,-120.6834,153,http://www.wta.org/go-hiking/hikes/icicle-ridge-1
+245,Big Tree Trail,Olympic Peninsula,NR,NR,3.00 out of 5,(1 vote) Log in to rate,[],NR,47.5870,-122.7345,2,http://www.wta.org/go-hiking/hikes/big-tree-trail-1
+246,Black River Riparian Forest,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.4734,-122.2390,1,http://www.wta.org/go-hiking/hikes/black-river-riparian-forest
+247,Burton Acres Park,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.3936,-122.4512,1,http://www.wta.org/go-hiking/hikes/burton-acres-park-vashon
+248,Deception Pass State Park - Pass Lake,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4171,-122.6448,7,http://www.wta.org/go-hiking/hikes/deception-pass-state-park-pass-lake
+249,Indian Trail,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.4519,-122.3790,2,http://www.wta.org/go-hiking/hikes/indian-trail-burien
+250,Lucia Falls,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.8407,-122.4470,1,http://www.wta.org/go-hiking/hikes/lucia-falls
+251,Sun Lakes-Dry Falls State Park,Central Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.5969,-119.3989,2,http://www.wta.org/go-hiking/hikes/caribou-trail-sun-lakes-dry-falls
+252,Fourth of July Pass Recreation Area,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.6206,-116.5310,1,http://www.wta.org/go-hiking/hikes/fourth-of-july-pass-recreation-area
+253,Sun Lakes-Dry Falls State Park - Park Lake Side Canyon,Central Washington,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,47.5855,-119.3557,3,http://www.wta.org/go-hiking/hikes/park-lake-side-canyon
+254,Sun Lakes-Dry Falls State Park - Umatilla Rock via Monument Coulee,Central Washington,NR,NR,3.25 out of 5,(4 votes) Log in to rate,[],NR,47.5855,-119.3557,17,http://www.wta.org/go-hiking/hikes/umatilla-rock-monument-coulee
+255,Master Link Trail,Issaquah Alps,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,NR,NR,3,http://www.wta.org/go-hiking/hikes/master-link-trail
+256,Wonderland Trail - Longmire to Paradise,Mount Rainier Area,NR,NR,4.00 out of 5,(3 votes) Log in to rate,[],NR,NR,NR,8,http://www.wta.org/go-hiking/hikes/wonderland-trail-longmire-to-paradise-carter-madcap-falls-ise
+257,Longmire to Cougar Rock Campground Snowshoe,Mount Rainier Area,NR,NR,3.67 out of 5,(3 votes) Log in to rate,[],NR,46.7503,-121.8122,18,http://www.wta.org/go-hiking/hikes/wonderland-trail-snowshoe
+258,Dishman Hills - Glenrose Unit,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,NR,NR,2,http://www.wta.org/go-hiking/hikes/dishman-hills-glenrose-unit
+259,Geophysical Trails,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.2538,-117.1320,1,http://www.wta.org/go-hiking/hikes/geophysical-trails
+260,Meadowbrook Farm,Snoqualmie Region,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.5085,-121.7990,1,http://www.wta.org/go-hiking/hikes/meadowbrook-farm
+261,Moulton Falls,Southwest Washington,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,45.8326,-122.3918,19,http://www.wta.org/go-hiking/hikes/moulton-falls
+262,Coyote Trail,South Cascades,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,46.6089,-121.6273,0,http://www.wta.org/go-hiking/hikes/coyote-trail-79
+263,Round Lake,North Cascades,NR,NR,4.50 out of 5,(6 votes) Log in to rate,[],NR,48.0936,-121.3368,133,http://www.wta.org/go-hiking/hikes/round-lake
+264,Dirty Harry's Peak,Snoqualmie Region,NR,NR,3.00 out of 5,(10 votes) Log in to rate,[],NR,47.4343,-121.6327,135,http://www.wta.org/go-hiking/hikes/dirty-harrys-peak
+265,Dirty Harry's Balcony,Snoqualmie Region,NR,NR,2.71 out of 5,(17 votes) Log in to rate,[],NR,47.4338,-121.6325,234,http://www.wta.org/go-hiking/hikes/dirty-harrys-balcony
+266,Peoh Point,Snoqualmie Region,NR,NR,5.00 out of 5,(1 vote) Log in to rate,[],NR,47.1366,-120.9516,3,http://www.wta.org/go-hiking/hikes/peoh-point
+267,Olympic Discovery Trail,Olympic Peninsula,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.1073,-123.3475,3,http://www.wta.org/go-hiking/hikes/olympic-discovery-trail-morse-creek-trailhead
+268,Deception Pass State Park - Lottie Point Loop,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4171,-122.6447,3,http://www.wta.org/go-hiking/hikes/lottie-point-loop
+269,Moses Coulee Preserve,Central Washington,NR,NR,3.75 out of 5,(4 votes) Log in to rate,[],NR,47.6533,-119.6678,7,http://www.wta.org/go-hiking/hikes/moses-coulee-preserve
+270,Myrtle Falls,Mount Rainier Area,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,46.7861,-121.7359,1,http://www.wta.org/go-hiking/hikes/myrtle-falls
+271,Carlton Ridge,South Cascades,NR,NR,2.50 out of 5,(4 votes) Log in to rate,[],NR,46.7128,-121.4898,0,http://www.wta.org/go-hiking/hikes/kincaid
+272,Beaver Pond Trail,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.4103,-122.2781,1,http://www.wta.org/go-hiking/hikes/eaglemont-trail-mount-vernon-parks-rec
+273,Four Springs Nature Preserve,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.1894,-122.5107,1,http://www.wta.org/go-hiking/hikes/four-springs-nature-preserve
+274,Klickitat Haul Road,South Cascades,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.8259,-121.0979,1,http://www.wta.org/go-hiking/hikes/klickitat-haul-road
+275,Old Mine Trail,Mount Rainier Area,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,46.9832,-121.8381,5,http://www.wta.org/go-hiking/hikes/old-mine-trail
+276,Yellowstone Cliffs and Windy Gap,Mount Rainier Area,NR,NR,3.60 out of 5,(5 votes) Log in to rate,[],NR,46.9949,-121.9123,14,http://www.wta.org/go-hiking/hikes/windy-gap-natural-bridge
+277,Grass Lake Nature Park,Olympic Peninsula,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.0532,-122.9602,1,http://www.wta.org/go-hiking/hikes/grass-lake-nature-park
+278,South Coldwater Trail,South Cascades,NR,NR,3.43 out of 5,(7 votes) Log in to rate,[],NR,46.2863,-122.2468,59,http://www.wta.org/go-hiking/hikes/south-coldwater-trail
+279,Hummocks Trail,South Cascades,NR,NR,3.62 out of 5,(13 votes) Log in to rate,[],NR,46.2869,-122.2717,52,http://www.wta.org/go-hiking/hikes/hummocks
+280,Stetattle Creek,North Cascades,NR,NR,3.25 out of 5,(4 votes) Log in to rate,[],NR,48.7171,-121.1500,9,http://www.wta.org/go-hiking/hikes/stetattle-creek
+281,High Rock,South Cascades,NR,NR,4.32 out of 5,(31 votes) Log in to rate,[],NR,46.6664,-121.8913,176,http://www.wta.org/go-hiking/hikes/high-rock
+282,Umtanum Creek Canyon,Central Washington,NR,NR,3.50 out of 5,(22 votes) Log in to rate,[],NR,46.8554,-120.4833,221,http://www.wta.org/go-hiking/hikes/umtanum-creek-canyon
+283,Ladder Creek Falls,North Cascades,NR,NR,4.50 out of 5,(2 votes) Log in to rate,[],NR,48.6749,-121.2420,14,http://www.wta.org/go-hiking/hikes/ladder-creek-falls
+284,Sourdough Mountain,North Cascades,NR,NR,3.58 out of 5,(12 votes) Log in to rate,[],NR,48.7179,-121.1455,111,http://www.wta.org/go-hiking/hikes/sourdough-mountain
+285,Sunrise to Mystic Lake,Mount Rainier Area,NR,NR,2.67 out of 5,(6 votes) Log in to rate,[],NR,46.9139,-121.6423,33,http://www.wta.org/go-hiking/hikes/mystic-lake
+286,Cedar Flats Nature Trail,Southwest Washington,NR,NR,2.50 out of 5,(4 votes) Log in to rate,[],NR,46.1116,-122.0183,1,http://www.wta.org/go-hiking/hikes/cedar-flat
+287,Skyscraper Pass,Mount Rainier Area,NR,NR,3.00 out of 5,(2 votes) Log in to rate,[],NR,46.9146,-121.6423,51,http://www.wta.org/go-hiking/hikes/skyscraper-pass-1
+288,Cutthroat Pass via the Pacific Crest Trail,North Cascades,NR,NR,3.55 out of 5,(11 votes) Log in to rate,[],NR,48.5181,-120.7331,109,http://www.wta.org/go-hiking/hikes/cutthroat-pass-via-pacific-crest-trail
+289,Boundary West,South Cascades,NR,NR,3.00 out of 5,(6 votes) Log in to rate,[],NR,46.2869,-122.2717,59,http://www.wta.org/go-hiking/hikes/boundary
+290,Boundary Trail - Pasayten,North Cascades,NR,NR,3.25 out of 5,(4 votes) Log in to rate,[],NR,48.8848,-119.8667,48,http://www.wta.org/go-hiking/hikes/boundary-trail-1
+291,Birth of a Lake Interpretive Trail,South Cascades,NR,NR,3.00 out of 5,(2 votes) Log in to rate,[],NR,46.2921,-122.2663,3,http://www.wta.org/go-hiking/hikes/birth-of-a-lake
+292,Berkeley Park,Mount Rainier Area,NR,NR,3.36 out of 5,(11 votes) Log in to rate,[],NR,46.9146,-121.6423,67,http://www.wta.org/go-hiking/hikes/berkeley-park
+293,Grand Park via Sunrise,Mount Rainier Area,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,46.9143,-121.6402,5,http://www.wta.org/go-hiking/hikes/grand-park-via-sunrise
+294,Big Creek Falls,Southwest Washington,NR,NR,2.67 out of 5,(6 votes) Log in to rate,[],NR,46.0939,-121.9073,11,http://www.wta.org/go-hiking/hikes/big-creek-falls-1
+295,Adams Creek Meadows,South Cascades,NR,NR,3.89 out of 5,(9 votes) Log in to rate,[],NR,46.2884,-121.5528,7,http://www.wta.org/go-hiking/hikes/adams-creek-meadows
+296,Deception Creek,Central Cascades,NR,NR,3.92 out of 5,(13 votes) Log in to rate,[],NR,47.7120,-121.1936,127,http://www.wta.org/go-hiking/hikes/deception-creek
+297,Marymere Falls,Olympic Peninsula,NR,NR,3.57 out of 5,(14 votes) Log in to rate,[],NR,48.0578,-123.7884,72,http://www.wta.org/go-hiking/hikes/marymere-falls
+298,Odessa Craters,Eastern Washington,NR,NR,2.80 out of 5,(5 votes) Log in to rate,[],NR,47.4211,-118.6909,5,http://www.wta.org/go-hiking/hikes/odessa-craters
+299,White Salmon Road Snowshoe,North Cascades,NR,NR,3.67 out of 5,(3 votes) Log in to rate,[],NR,48.9035,-121.6948,16,http://www.wta.org/go-hiking/hikes/white-salmon-creek-snowshoe
+300,Snagtooth Mountain,Southwest Washington,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,46.2480,-121.8154,1,http://www.wta.org/go-hiking/hikes/snagtooth-mountain
+301,She-Who-Watches,Southwest Washington,NR,NR,2.67 out of 5,(3 votes) Log in to rate,[],NR,NR,NR,1,http://www.wta.org/go-hiking/hikes/she-who-watches
+302,Upper Wildcat Lake,Snoqualmie Region,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.4086,-121.3756,23,http://www.wta.org/go-hiking/hikes/upper-wildcat-lake
+303,Cedar Butte,Snoqualmie Region,NR,NR,3.19 out of 5,(27 votes) Log in to rate,[],NR,47.4335,-121.7675,242,http://www.wta.org/go-hiking/hikes/cedar-butte
+304,Bearhead Mountain,Mount Rainier Area,NR,NR,3.50 out of 5,(10 votes) Log in to rate,[],NR,47.0314,-121.8257,86,http://www.wta.org/go-hiking/hikes/bearhead
+305,Lemei Lake,South Cascades,NR,NR,2.80 out of 5,(5 votes) Log in to rate,[],NR,46.0184,-121.7748,12,http://www.wta.org/go-hiking/hikes/lemei-lake
+306,Windy Ridge and Plains of Abraham,South Cascades,NR,NR,3.86 out of 5,(7 votes) Log in to rate,[],NR,46.2489,-122.1361,28,http://www.wta.org/go-hiking/hikes/abraham
+307,Backbone Ridge,South Cascades,NR,NR,2.50 out of 5,(6 votes) Log in to rate,[],NR,46.6642,-121.6003,8,http://www.wta.org/go-hiking/hikes/backbone-ridge
+308,Huffman Peak,South Cascades,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,45.9465,-122.1779,4,http://www.wta.org/go-hiking/hikes/huffman-peak
+309,Black Hole Falls,South Cascades,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.9790,-122.2549,1,http://www.wta.org/go-hiking/hikes/black-hole-falls-hike
+310,Wilson Creek,Snoqualmie Region,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,47.2289,-120.5703,1,http://www.wta.org/go-hiking/hikes/wilson-creek-2
+311,Quick Creek Camp,Snoqualmie Region,NR,NR,2.75 out of 5,(4 votes) Log in to rate,[],NR,47.3860,-121.0941,3,http://www.wta.org/go-hiking/hikes/quick-creek-camp
+312,Bluff Trail,Southwest Washington,NR,NR,2.25 out of 5,(4 votes) Log in to rate,[],NR,46.0608,-121.9721,1,http://www.wta.org/go-hiking/hikes/spencer-creek-trail
+313,Big Creek Falls,Snoqualmie Region,NR,NR,3.60 out of 5,(5 votes) Log in to rate,[],NR,47.5381,-121.5314,14,http://www.wta.org/go-hiking/hikes/big-creek-falls
+314,Granite Creek Trail,Snoqualmie Region,NR,NR,2.33 out of 5,(3 votes) Log in to rate,[],NR,47.4699,-121.6685,109,http://www.wta.org/go-hiking/hikes/granite-creek-road-trail
+315,Dingford Creek-Myrtle Lake,Snoqualmie Region,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,47.5172,-121.4552,48,http://www.wta.org/go-hiking/hikes/dingford-creek-myrtle-lake
+316,CCC Road: Blowout Creek Trailhead,Snoqualmie Region,NR,NR,2.50 out of 5,(2 votes) Log in to rate,[],NR,47.5159,-121.6134,44,http://www.wta.org/go-hiking/hikes/ccc-road-blowout-creek-trailhead
+317,CCC Road: Lower Trailhead,Snoqualmie Region,NR,NR,3.50 out of 5,(2 votes) Log in to rate,[],NR,47.4862,-121.7012,17,http://www.wta.org/go-hiking/hikes/ccc-road-lower-trailhead
+318,CCC Road: Upper Trailhead,Snoqualmie Region,NR,NR,3.00 out of 5,(2 votes) Log in to rate,[],NR,47.5373,-121.5775,18,http://www.wta.org/go-hiking/hikes/ccc-road-upper-trailhead
+319,Middle Fork to Salmon La Sac Traverse,Snoqualmie Region,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.5480,-121.5372,6,http://www.wta.org/go-hiking/hikes/middle-fork-to-salmon-la-sac-traverse
+320,Rainy Lake,Snoqualmie Region,NR,NR,3.55 out of 5,(11 votes) Log in to rate,[],NR,47.5475,-121.5410,48,http://www.wta.org/go-hiking/hikes/rainy-lake-1
+321,Pratt River Trail,Snoqualmie Region,NR,NR,3.40 out of 5,(10 votes) Log in to rate,[],NR,47.5480,-121.5384,74,http://www.wta.org/go-hiking/hikes/pratt-river-trail
+322,Snoqualmie Lake,Snoqualmie Region,NR,NR,3.50 out of 5,(12 votes) Log in to rate,[],NR,47.5614,-121.5321,114,http://www.wta.org/go-hiking/hikes/snoqualmie-lake
+323,Otter Falls - Taylor River,Snoqualmie Region,NR,NR,4.03 out of 5,(37 votes) Log in to rate,[],NR,47.5609,-121.5323,328,http://www.wta.org/go-hiking/hikes/otter-falls-taylor-river
+324,Goldmyer Hot Springs,Snoqualmie Region,NR,NR,4.00 out of 5,(5 votes) Log in to rate,[],NR,47.5001,-121.4467,59,http://www.wta.org/go-hiking/hikes/goldmyer-hot-springs
+325,Dingford Creek-Hester Lake,Snoqualmie Region,NR,NR,3.43 out of 5,(7 votes) Log in to rate,[],NR,47.5174,-121.4542,64,http://www.wta.org/go-hiking/hikes/dingford-creek-hester-lake
+326,Sheep Canyon,South Cascades,NR,NR,3.50 out of 5,(6 votes) Log in to rate,[],NR,46.2022,-122.2677,13,http://www.wta.org/go-hiking/hikes/sheep-canyon
+327,Speed,Southwest Washington,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,46.1021,-121.9065,2,http://www.wta.org/go-hiking/hikes/speed
+328,Quartz Creek Big Trees,South Cascades,NR,NR,4.75 out of 5,(4 votes) Log in to rate,[],NR,46.3932,-122.0749,0,http://www.wta.org/go-hiking/hikes/quartz-creek-big-trees
+329,Mitchell Peak,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,46.0462,-122.1949,4,http://www.wta.org/go-hiking/hikes/mitchell-peak
+330,Lily Lake,South Cascades,NR,NR,2.43 out of 5,(7 votes) Log in to rate,[],NR,46.6555,-121.4862,19,http://www.wta.org/go-hiking/hikes/clear-fork
+331,Bells Mountain,Southwest Washington,NR,NR,3.33 out of 5,(3 votes) Log in to rate,[],NR,45.8286,-122.3877,11,http://www.wta.org/go-hiking/hikes/bells-mt
+332,Dirtyface Lookout and Peak,Central Cascades,NR,NR,3.45 out of 5,(11 votes) Log in to rate,[],NR,47.8379,-120.7976,107,http://www.wta.org/go-hiking/hikes/dirtyface-lookout-site
+333,Jug Lake,South Cascades,NR,NR,2.71 out of 5,(7 votes) Log in to rate,[],NR,46.7230,-121.4366,13,http://www.wta.org/go-hiking/hikes/jug-lake
+334,Lily and Lizard Lake Loop,Puget Sound and Islands,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.6170,-122.3858,88,http://www.wta.org/go-hiking/hikes/lily-lizard-lake-loop
+335,Carbon Glacier,Mount Rainier Area,NR,NR,3.50 out of 5,(14 votes) Log in to rate,[],NR,46.9771,-121.8315,61,http://www.wta.org/go-hiking/hikes/carbon-glacier
+336,Surprise Lake Snowshoe,Central Cascades,NR,NR,2.80 out of 5,(5 votes) Log in to rate,[],NR,46.5687,-121.5996,55,http://www.wta.org/go-hiking/hikes/surprise-lake-snowshoe
+337,Poo Poo Point,Issaquah Alps,NR,NR,3.67 out of 5,(63 votes) Log in to rate,[],NR,47.5195,-122.0299,432,http://www.wta.org/go-hiking/hikes/poo-poo-point
+338,Mima Falls,Olympic Peninsula,NR,NR,3.44 out of 5,(9 votes) Log in to rate,[],NR,46.9019,-123.0640,95,http://www.wta.org/go-hiking/hikes/mima-falls
+339,Sunrise Lake,Mount Rainier Area,NR,NR,3.70 out of 5,(10 votes) Log in to rate,[],NR,46.9175,-121.5878,3,http://www.wta.org/go-hiking/hikes/sunrise-lake
+340,Dege Peak,Mount Rainier Area,NR,NR,3.83 out of 5,(12 votes) Log in to rate,[],NR,46.9146,-121.6423,40,http://www.wta.org/go-hiking/hikes/dege-peak
+341,Palisades Lakes,Mount Rainier Area,NR,NR,3.53 out of 5,(15 votes) Log in to rate,[],NR,46.9175,-121.5878,104,http://www.wta.org/go-hiking/hikes/palisades-lakes
+342,Bob Heirman Wildlife Preserve,Puget Sound and Islands,NR,NR,2.00 out of 5,(4 votes) Log in to rate,[],NR,47.8615,-122.0932,6,http://www.wta.org/go-hiking/hikes/bob-hierman-preserve
+343,Spencer Island,Puget Sound and Islands,NR,NR,3.38 out of 5,(8 votes) Log in to rate,[],NR,47.9942,-122.1793,58,http://www.wta.org/go-hiking/hikes/spencer-island
+344,McGarvey Park,Issaquah Alps,NR,NR,3.00 out of 5,(1 vote) Log in to rate,[],NR,47.4491,-122.1098,6,http://www.wta.org/go-hiking/hikes/mcgarvey-park
+345,Gazzam Lake Nature Preserve,Puget Sound and Islands,NR,NR,4.33 out of 5,(9 votes) Log in to rate,[],NR,47.6097,-122.5637,31,http://www.wta.org/go-hiking/hikes/gazzam-lake-close-beach
+346,Burnt Bridge Creek - Stewart Glen Section,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.6733,-122.6903,1,http://www.wta.org/go-hiking/hikes/burnt-bridge-creek-stewart-glen-section
+347,Duckabush River,Olympic Peninsula,NR,NR,3.45 out of 5,(20 votes) Log in to rate,[],NR,47.6845,-123.0595,303,http://www.wta.org/go-hiking/hikes/duckabush-river
+348,Larch Mountain,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,45.5776,-122.1172,6,http://www.wta.org/go-hiking/hikes/larch-mountain
+349,Chain Lakes Loop,North Cascades,NR,NR,4.40 out of 5,(25 votes) Log in to rate,[],NR,48.8469,-121.6925,196,http://www.wta.org/go-hiking/hikes/chain-lakes-3
+350,Gold Mine Trail,Puget Sound and Islands,NR,NR,3.33 out of 5,(3 votes) Log in to rate,[],NR,48.9244,-122.2620,20,http://www.wta.org/go-hiking/hikes/gold-mine-trail
+351,East Bank Ross Lake,North Cascades,NR,NR,3.25 out of 5,(4 votes) Log in to rate,[],NR,48.7055,-120.9608,48,http://www.wta.org/go-hiking/hikes/east-bank-ross-lake-737
+352,Sumas Mountain,Puget Sound and Islands,NR,NR,3.75 out of 5,(8 votes) Log in to rate,[],NR,48.9245,-122.2616,17,http://www.wta.org/go-hiking/hikes/sumas-mountain
+353,Dirtyface Ridge Snowshoe,Central Cascades,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.8088,-120.7148,6,http://www.wta.org/go-hiking/hikes/dirty-face-ridge-snowshoe
+354,Kachess Lake,Snoqualmie Region,NR,NR,3.50 out of 5,(6 votes) Log in to rate,[],NR,47.3587,-121.2460,13,http://www.wta.org/go-hiking/hikes/kachess-lake-shore
+355,Olympic Hot Springs,Olympic Peninsula,NR,NR,3.60 out of 5,(10 votes) Log in to rate,[],NR,47.9775,-123.6925,44,http://www.wta.org/go-hiking/hikes/olympic-hot-springs
+356,Mount Spokane State Park - Trail 120,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.9046,-117.1027,1,http://www.wta.org/go-hiking/hikes/mount-spokane-state-park-trail-120
+357,Salmon Ridge Snowshoe,North Cascades,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,48.9076,-121.6941,10,http://www.wta.org/go-hiking/hikes/salmon-ridge-snowshoe
+358,Franklin Falls,Snoqualmie Region,NR,NR,4.11 out of 5,(57 votes) Log in to rate,[],NR,47.4130,-121.4416,557,http://www.wta.org/go-hiking/hikes/franklin-falls
+359,Rattlesnake Mountain,Snoqualmie Region,NR,NR,3.43 out of 5,(30 votes) Log in to rate,[],NR,47.5092,-121.8434,340,http://www.wta.org/go-hiking/hikes/rattle-snake-mountain
+360,Seward Park,Puget Sound and Islands,NR,NR,4.00 out of 5,(4 votes) Log in to rate,[],NR,47.5499,-122.2577,16,http://www.wta.org/go-hiking/hikes/seward-park
+361,Foulweather Bluff Preserve Trail,Olympic Peninsula,NR,NR,4.00 out of 5,(1 vote) Log in to rate,[],NR,47.9255,-122.6008,9,http://www.wta.org/go-hiking/hikes/foulweather-bluff-preserve-trail
+362,Saint Edward State Park,Puget Sound and Islands,NR,NR,3.94 out of 5,(16 votes) Log in to rate,[],NR,47.7329,-122.2583,52,http://www.wta.org/go-hiking/hikes/north-trail-saint-edward-state-park
+363,Mount McCausland,Central Cascades,NR,NR,4.64 out of 5,(11 votes) Log in to rate,[],NR,47.8020,-121.0781,89,http://www.wta.org/go-hiking/hikes/mt.-mccausland
+364,Lunds Gulch / Meadowdale Beach Park,Puget Sound and Islands,NR,NR,3.38 out of 5,(13 votes) Log in to rate,[],NR,47.8558,-122.3175,95,http://www.wta.org/go-hiking/hikes/lunds-gulch-meadowdale-county-park
+365,Wood Lake,South Cascades,NR,NR,2.67 out of 5,(6 votes) Log in to rate,[],NR,NR,NR,3,http://www.wta.org/go-hiking/hikes/wood-lake
+366,Umtanum Creek Falls,Central Washington,NR,NR,3.50 out of 5,(10 votes) Log in to rate,[],NR,46.8996,-120.6435,64,http://www.wta.org/go-hiking/hikes/umtanum-creek-falls
+367,Twin Sisters Lakes,South Cascades,NR,NR,3.22 out of 5,(9 votes) Log in to rate,[],NR,46.7520,-121.3615,69,http://www.wta.org/go-hiking/hikes/twin-sisters
+368,Tronsen Ridge,Central Cascades,NR,NR,3.89 out of 5,(9 votes) Log in to rate,[],NR,47.3227,-120.5265,92,http://www.wta.org/go-hiking/hikes/tronsen-ridge
+369,Talapus and Olallie Lakes,Snoqualmie Region,NR,NR,3.58 out of 5,(55 votes) Log in to rate,[],NR,47.4007,-121.5190,818,http://www.wta.org/go-hiking/hikes/talapus-lake
+370,Southwest Loowit Loop,South Cascades,NR,NR,4.00 out of 5,(1 vote) Log in to rate,[],NR,46.1691,-122.2601,2,http://www.wta.org/go-hiking/hikes/southwest-loowit-loop
+371,Spada Lake - Culmback Dam,Central Cascades,NR,NR,2.00 out of 5,(1 vote) Log in to rate,[],NR,47.9754,-121.6865,6,http://www.wta.org/go-hiking/hikes/spada-lake-culmback-dam
+372,Shriner Peak,Mount Rainier Area,NR,NR,3.55 out of 5,(11 votes) Log in to rate,[],NR,46.8018,-121.5551,135,http://www.wta.org/go-hiking/hikes/shriner-peak
+373,Shorthorn,South Cascades,NR,NR,3.80 out of 5,(5 votes) Log in to rate,[],NR,46.1989,-121.0593,5,http://www.wta.org/go-hiking/hikes/shorthorn
+374,Shellrock Lake,South Cascades,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,46.6438,-121.3801,20,http://www.wta.org/go-hiking/hikes/shellrock-lake
+375,Scorpion Mountain,Central Cascades,NR,NR,4.20 out of 5,(5 votes) Log in to rate,[],NR,47.7966,-121.2622,19,http://www.wta.org/go-hiking/hikes/scorpion-mountain
+376,Round Mountain,South Cascades,NR,NR,3.67 out of 5,(6 votes) Log in to rate,[],NR,46.6344,-121.3033,31,http://www.wta.org/go-hiking/hikes/round-mountain
+377,Riley Camp,South Cascades,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,46.2323,-121.6272,9,http://www.wta.org/go-hiking/hikes/riley-camp
+378,Ridgefield National Wildlife Refuge,Southwest Washington,NR,NR,3.80 out of 5,(5 votes) Log in to rate,[],NR,45.8310,-122.7466,10,http://www.wta.org/go-hiking/hikes/ridgefield-national-wildlife-refuge
+379,Purcell Lookout,South Cascades,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,46.5814,-121.8327,11,http://www.wta.org/go-hiking/hikes/purcell-lookout
+380,Paradise,Mount Rainier Area,NR,NR,2.71 out of 5,(7 votes) Log in to rate,[],NR,46.7862,-121.7354,54,http://www.wta.org/go-hiking/hikes/paradise
+381,Silver Star Mountain - Ed's Trail,Southwest Washington,NR,NR,3.88 out of 5,(8 votes) Log in to rate,[],NR,45.7673,-122.2433,40,http://www.wta.org/go-hiking/hikes/eds-trail
+382,Point No Point Park,Olympic Peninsula,NR,NR,3.00 out of 5,(1 vote) Log in to rate,[],NR,47.9115,-122.5291,8,http://www.wta.org/go-hiking/hikes/point-no-point
+383,North Fork Sauk Falls,North Cascades,NR,NR,3.86 out of 5,(7 votes) Log in to rate,[],NR,48.0985,-121.3709,41,http://www.wta.org/go-hiking/hikes/north-fork-sauk-falls
+384,Moraine Trail,Mount Rainier Area,NR,NR,5.00 out of 5,(1 vote) Log in to rate,[],NR,46.7864,-121.7365,4,http://www.wta.org/go-hiking/hikes/moraine-trail
+385,Mirror Lakes,Mount Rainier Area,NR,NR,3.00 out of 5,(5 votes) Log in to rate,[],NR,46.7957,-121.8415,9,http://www.wta.org/go-hiking/hikes/mirror-lakes
+386,Minotaur Lake,Central Cascades,NR,NR,3.53 out of 5,(15 votes) Log in to rate,[],NR,47.8278,-121.0297,122,http://www.wta.org/go-hiking/hikes/minotaur-lake
+387,Lookout Mountain Lookout - Methow,North Cascades,NR,NR,4.20 out of 5,(5 votes) Log in to rate,[],NR,48.3241,-120.1846,30,http://www.wta.org/go-hiking/hikes/lookout-mountain-lookout-okanogan
+388,Longs Pass,Snoqualmie Region,NR,NR,4.11 out of 5,(9 votes) Log in to rate,[],NR,47.4367,-120.9372,143,http://www.wta.org/go-hiking/hikes/longs-pass
+389,Libby Lake,North Cascades,NR,NR,3.14 out of 5,(7 votes) Log in to rate,[],NR,48.2759,-120.2900,15,http://www.wta.org/go-hiking/hikes/libby-lake
+390,Layser Cave,South Cascades,NR,NR,2.17 out of 5,(6 votes) Log in to rate,[],NR,46.4597,-121.8693,7,http://www.wta.org/go-hiking/hikes/layser-cave
+391,Lake Dorothy - Lake Bear - Lake Deer,Central Cascades,NR,NR,3.76 out of 5,(25 votes) Log in to rate,[],NR,47.6089,-121.3861,354,http://www.wta.org/go-hiking/hikes/dorothy-lake
+392,Kraus Ridge,South Cascades,NR,NR,2.00 out of 5,(4 votes) Log in to rate,[],NR,46.4649,-121.8974,2,http://www.wta.org/go-hiking/hikes/kraus-ridge
+393,Killen Creek to High Camp,South Cascades,NR,NR,3.38 out of 5,(8 votes) Log in to rate,[],NR,46.2885,-121.5525,31,http://www.wta.org/go-hiking/hikes/killen-creek
+394,Kautz Creek to Indian Henry's Hunting Ground,Mount Rainier Area,NR,NR,3.12 out of 5,(8 votes) Log in to rate,[],NR,46.7364,-121.8555,65,http://www.wta.org/go-hiking/hikes/kautz-creek-to-indian-henrys-hunting-ground
+395,June Lake,South Cascades,NR,NR,3.50 out of 5,(6 votes) Log in to rate,[],NR,46.1373,-122.1569,23,http://www.wta.org/go-hiking/hikes/june-lake
+396,Johnson Peak-Lily Basin,South Cascades,NR,NR,3.50 out of 5,(6 votes) Log in to rate,[],NR,46.5641,-121.5999,54,http://www.wta.org/go-hiking/hikes/lilly-basin
+397,Iron Creek Campground,South Cascades,NR,NR,2.75 out of 5,(4 votes) Log in to rate,[],NR,46.4291,-121.9878,5,http://www.wta.org/go-hiking/hikes/iron-creek-campground
+398,Indian Bar - Summerland Traverse,Mount Rainier Area,NR,NR,5.00 out of 5,(1 vote) Log in to rate,[],NR,46.7656,-121.6349,1,http://www.wta.org/go-hiking/hikes/indian-bar-summerland-traverse
+399,Ice Cave - Natural Bridges Nature Trails,South Cascades,NR,NR,2.20 out of 5,(5 votes) Log in to rate,[],NR,46.1298,-121.8392,3,http://www.wta.org/go-hiking/hikes/ice-cave-natural-bridges-nature-trails
+400,Hyas Lake,Snoqualmie Region,NR,NR,2.00 out of 5,(7 votes) Log in to rate,[],NR,47.5452,-121.0984,100,http://www.wta.org/go-hiking/hikes/hyas-lake
+401,Elk Mountain to Maiden Peak,Olympic Peninsula,NR,NR,4.50 out of 5,(2 votes) Log in to rate,[],NR,47.9345,-123.3209,1,http://www.wta.org/go-hiking/hikes/elk-mtn-to-maiden-peak
+402,Deer Park to Maiden Peak,Olympic Peninsula,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,47.9497,-123.2648,2,http://www.wta.org/go-hiking/hikes/deer-park-to-maiden-peak
+403,Hurricane Hill,Olympic Peninsula,NR,NR,4.00 out of 5,(15 votes) Log in to rate,[],NR,47.9766,-123.5178,128,http://www.wta.org/go-hiking/hikes/hurricane-hill
+404,Hex Mountain,Snoqualmie Region,NR,NR,3.00 out of 5,(3 votes) Log in to rate,[],NR,47.2705,-120.9004,35,http://www.wta.org/go-hiking/hikes/hex-mountain-1
+405,Harmony Falls,South Cascades,NR,NR,4.14 out of 5,(7 votes) Log in to rate,[],NR,46.2745,-122.1042,13,http://www.wta.org/go-hiking/hikes/harmony
+406,Golden Gate,Mount Rainier Area,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,46.7860,-121.7350,26,http://www.wta.org/go-hiking/hikes/golden-gate
+407,Gobblers Knob,Mount Rainier Area,NR,NR,2.83 out of 5,(6 votes) Log in to rate,[],NR,46.7790,-121.8844,84,http://www.wta.org/go-hiking/hikes/gobblers-knob
+408,Glacier Basin Loop,Mount Rainier Area,NR,NR,5.00 out of 5,(1 vote) Log in to rate,[],NR,46.9021,-121.6437,3,http://www.wta.org/go-hiking/hikes/glacier-basin-loop
+409,Dock Butte,North Cascades,NR,NR,3.78 out of 5,(9 votes) Log in to rate,[],NR,48.6538,-121.7840,52,http://www.wta.org/go-hiking/hikes/dock-butte
+410,Curly Creek Falls,Southwest Washington,NR,NR,3.60 out of 5,(5 votes) Log in to rate,[],NR,46.0603,-121.9707,11,http://www.wta.org/go-hiking/hikes/curly-creek-falls
+411,Crofton Butte,South Cascades,NR,NR,2.71 out of 5,(7 votes) Log in to rate,[],NR,46.1216,-121.5612,2,http://www.wta.org/go-hiking/hikes/crofton-butte
+412,Blue Lake and Sheep Canyon via South Fork Toutle,South Cascades,NR,NR,3.25 out of 5,(4 votes) Log in to rate,[],NR,46.1458,-122.1834,18,http://www.wta.org/go-hiking/hikes/blue-lake-south-fork-toutle
+413,Lowell Riverfront Park Trail,Puget Sound and Islands,NR,NR,3.67 out of 5,(3 votes) Log in to rate,[],NR,47.9478,-122.1925,16,http://www.wta.org/go-hiking/hikes/lowell-riverfront-park-trail
+414,Kukutali Preserve,Puget Sound and Islands,NR,NR,4.00 out of 5,(3 votes) Log in to rate,[],NR,48.4210,-122.5529,25,http://www.wta.org/go-hiking/hikes/kukutali-preserve
+415,Woodard Bay Conservation Area,Olympic Peninsula,NR,NR,2.40 out of 5,(5 votes) Log in to rate,[],NR,47.1269,-122.8538,13,http://www.wta.org/go-hiking/hikes/woodard-bay-conservation-area
+416,Sulphur Creek,North Cascades,NR,NR,3.40 out of 5,(5 votes) Log in to rate,[],NR,48.2498,-121.1936,13,http://www.wta.org/go-hiking/hikes/sulphur-creek
+417,Island Center Forest,Puget Sound and Islands,NR,NR,3.00 out of 5,(4 votes) Log in to rate,[],NR,47.4365,-122.4710,14,http://www.wta.org/go-hiking/hikes/island-center-forest
+418,Big Finn Hill Park,Puget Sound and Islands,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,47.7243,-122.2368,3,http://www.wta.org/go-hiking/hikes/big-finn-hill
+419,Maury Island Marine Park,Puget Sound and Islands,NR,NR,4.00 out of 5,(2 votes) Log in to rate,[],NR,47.3818,-122.4086,5,http://www.wta.org/go-hiking/hikes/maury-island-marine-park
+420,Kelly Butte,Mount Rainier Area,NR,NR,3.85 out of 5,(13 votes) Log in to rate,[],NR,47.1625,-121.4805,105,http://www.wta.org/go-hiking/hikes/kelly-butte
+421,Beaver Lake Preserve,Issaquah Alps,NR,NR,3.00 out of 5,(6 votes) Log in to rate,[],NR,47.5974,-121.9919,10,http://www.wta.org/go-hiking/hikes/beaver-lake-preserve
+422,Cedar River Trail,Puget Sound and Islands,NR,NR,3.71 out of 5,(7 votes) Log in to rate,[],NR,47.5000,-122.2149,20,http://www.wta.org/go-hiking/hikes/cedar-river-trail
+423,Peabody Creek Trail,Olympic Peninsula,NR,NR,4.00 out of 5,(1 vote) Log in to rate,[],NR,48.0993,-123.4260,12,http://www.wta.org/go-hiking/hikes/peabody-creek-trail
+424,Copper Creek Hut Snowshoe,Mount Rainier Area,NR,NR,3.33 out of 5,(3 votes) Log in to rate,[],NR,46.7784,-122.0233,30,http://www.wta.org/go-hiking/hikes/copper-creek-hut-snowshoe
+425,Red Town Creek,Issaquah Alps,NR,NR,3.00 out of 5,(6 votes) Log in to rate,[],NR,47.5345,-122.1285,10,http://www.wta.org/go-hiking/hikes/red-town-creek
+426,Fragrance Lake,Puget Sound and Islands,NR,NR,3.58 out of 5,(26 votes) Log in to rate,[],NR,48.6534,-122.4902,196,http://www.wta.org/go-hiking/hikes/fragrance-lake
+427,Kopachuck State Park Trail,Olympic Peninsula,NR,NR,5.00 out of 5,(1 vote) Log in to rate,[],NR,47.3085,-122.6807,6,http://www.wta.org/go-hiking/hikes/kopachuck-state-park-trail
+428,Nordic Pass - Hyak,Snoqualmie Region,NR,NR,3.67 out of 5,(6 votes) Log in to rate,[],NR,47.3930,-121.3958,29,http://www.wta.org/go-hiking/hikes/nordic-pass-hyak
+429,Hall Mountain,Eastern Washington,NR,NR,3.38 out of 5,(8 votes) Log in to rate,[],NR,48.8075,-117.2584,20,http://www.wta.org/go-hiking/hikes/hall-mountain
+430,North Fork Entiat River,Central Cascades,NR,NR,2.50 out of 5,(4 votes) Log in to rate,[],NR,48.0058,-120.5763,25,http://www.wta.org/go-hiking/hikes/north-fork-entiat-river
+431,Big Meadow Lake,Eastern Washington,NR,NR,3.25 out of 5,(4 votes) Log in to rate,[],NR,48.7266,-117.5629,2,http://www.wta.org/go-hiking/hikes/big-meadow-lake
+432,Jungle Hill Loop,Eastern Washington,NR,NR,3.50 out of 5,(4 votes) Log in to rate,[],NR,48.6066,-118.4776,3,http://www.wta.org/go-hiking/hikes/jungle-hill
+433,Thirteenmile (13 mile),Eastern Washington,NR,NR,2.25 out of 5,(4 votes) Log in to rate,[],NR,48.4818,-118.7353,14,http://www.wta.org/go-hiking/hikes/thirteenmile
+434,Clackamas Mountain,Eastern Washington,NR,NR,4.33 out of 5,(3 votes) Log in to rate,[],NR,48.6805,-118.9069,1,http://www.wta.org/go-hiking/hikes/clackamas-mountain-trail
+435,Slab Camp Creek and Gray Wolf River,Olympic Peninsula,NR,NR,3.60 out of 5,(5 votes) Log in to rate,[],NR,47.9654,-123.1938,66,http://www.wta.org/go-hiking/hikes/upper-gray-wolf-river
+436,Grand Park via Lake Eleanor,Mount Rainier Area,NR,NR,4.33 out of 5,(15 votes) Log in to rate,[],NR,46.9963,-121.6413,260,http://www.wta.org/go-hiking/hikes/grand-park
+437,Lake Ann (Rainy Pass),North Cascades,NR,NR,4.29 out of 5,(14 votes) Log in to rate,[],NR,48.5156,-120.7362,53,http://www.wta.org/go-hiking/hikes/lake-ann-maple-pass-loop
+438,Twisp Pass,North Cascades,NR,NR,3.60 out of 5,(10 votes) Log in to rate,[],NR,48.4586,-120.5675,56,http://www.wta.org/go-hiking/hikes/twisp-pass
+439,Cape Horn,Southwest Washington,NR,NR,3.38 out of 5,(8 votes) Log in to rate,[],NR,45.5890,-122.1787,46,http://www.wta.org/go-hiking/hikes/cape-horn
+440,North Fork Skokomish River,Olympic Peninsula,NR,NR,3.50 out of 5,(6 votes) Log in to rate,[],NR,47.5157,-123.3295,116,http://www.wta.org/go-hiking/hikes/north-fork-skokomish-river
+441,Quarry,Issaquah Alps,NR,NR,4.00 out of 5,(7 votes) Log in to rate,[],NR,47.5241,-122.1151,53,http://www.wta.org/go-hiking/hikes/quarry
+442,Blandford Canyon,Southwest Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,NR,NR,1,http://www.wta.org/go-hiking/hikes/blandford-canyon
+443,Children of the Sun,Eastern Washington,NR,NR,0.00 out of 5,(0 votes) Log in to rate,[],NR,47.7746,-117.4019,2,http://www.wta.org/go-hiking/hikes/children-of-the-sun
+444,Patterson Mountain,North Cascades,NR,NR,3.50 out of 5,(6 votes) Log in to rate,[],NR,48.4621,-120.2441,16,http://www.wta.org/go-hiking/hikes/patterson-mountain
+445,Echo Ridge,Central Cascades,NR,NR,2.00 out of 5,(3 votes) Log in to rate,[],NR,47.9394,-120.0419,11,http://www.wta.org/go-hiking/hikes/echo-ridge
+446,Tronsen Meadow,Snoqualmie Region,NR,NR,2.50 out of 5,(4 votes) Log in to rate,[],NR,47.3290,-120.5532,16,http://www.wta.org/go-hiking/hikes/tronson-meadow
+447,Eightmile Lake,Central Cascades,NR,NR,3.62 out of 5,(16 votes) Log in to rate,[],NR,47.5360,-120.8139,200,http://www.wta.org/go-hiking/hikes/eightmile-lake
+448,Lake Stuart,Central Cascades,NR,NR,3.47 out of 5,(15 votes) Log in to rate,[],NR,47.5277,-120.8210,208,http://www.wta.org/go-hiking/hikes/lake-stuart
+449,Tiffany Lake,North Cascades,NR,NR,2.00 out of 5,(5 votes) Log in to rate,[],NR,48.7000,-119.9532,6,http://www.wta.org/go-hiking/hikes/tiffany-lake
