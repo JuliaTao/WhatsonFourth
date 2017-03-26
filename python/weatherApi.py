@@ -14,8 +14,9 @@ def getForecastAtLocation(latitude, longitude):
 import geopy
 from geopy.distance import great_circle
 #TODO: replace with https://developers.google.com/maps/documentation/distance-matrix/intro
+#takes tuples, (latitude, longitude)
 def getDrivingDistance(start_loc, end_loc):
-    return great_circle(newport_ri, cleveland_oh).miles
+    return great_circle(start_loc, end_loc).miles
 
 def getDrivingTime(start_loc, end_loc):
     return getDrivingDistance(start_loc, end_loc) / 50 #assume 50 mph
