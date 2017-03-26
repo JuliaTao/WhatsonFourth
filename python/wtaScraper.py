@@ -6,12 +6,15 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-import numpy as np
-import matplotlib as plt
-import seaborn as sn
+#import numpy as np
+#import matplotlib as plt
+#import seaborn as sn
 import re
 
-
+# Regular expressions match the text before and after latitude and
+# longitude coordinates embedded in a URL in the trail description web page.
+PREFIX_REGEX = re.compile("//www.google.com/maps/dir//")
+SUFFIX_REGEX = re.compile("/@\S+en")
 
 def collect_hikeurls(starturl):
     """Collecting all of the websites for all of the hikes"""
@@ -32,6 +35,14 @@ def collect_hikeurls(starturl):
             path = link.a['href']
     return hike_links
 
+def extract_lat_long(location_url):
+    # Uses regular expressions to extract lat and long from URL
+    # by stripping off leading and following text, leaving a
+    # comma-separated latitude, longitude coordinates.
+    start_lat_index = PREFIX_REGEX.match(location_url).end()
+    end_long_index = len(location_url) - len(SUFFIX_REGEX.findall(location_url)[0])
+    lat_long = location_url[start_lat_index : end_long_index]
+    return lat_long.split(",")[0], lat_long.split(",")[1]
 
 def parser(url):
     """Parses URL into hiking dataset.
@@ -80,9 +91,12 @@ def parser(url):
     except:
         row_data['which_pass'] = 'NR'
     try:
-        row_data['latlong'] = soup.find('a', attrs={'class': "visualNoPrint full-map"})['href']
+        lat_long = extract_lat_long(soup.find('a', attrs={'class': "visualNoPrint full-map"})['href'])
+        row_data['lat'] = lat_long[0]
+        row_data['long'] = lat_long[1]
     except:
-        row_data['latlong'] = 'NR'
+        row_data['lat'] = 'NR'
+        row_data['long'] = 'NR'
     try:
         row_data['numReports'] = soup.find('span', attrs={'class': 'ReportCount'}).text
     except:
